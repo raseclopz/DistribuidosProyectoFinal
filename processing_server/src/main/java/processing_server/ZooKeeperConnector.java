@@ -17,7 +17,7 @@ public class ZooKeeperConnector {
         zooKeeper = new ZooKeeper(host, 5000, new Watcher() {
             @Override
             public void process(WatchedEvent event) {
-                // Watcher implementation
+                // Implementación del Watcher
             }
         });
 

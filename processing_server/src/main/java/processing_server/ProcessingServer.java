@@ -1,22 +1,31 @@
 package processing_server;
 
-import org.apache.zookeeper.KeeperException;
-import org.apache.zookeeper.ZooKeeper;
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
+import org.apache.zookeeper.KeeperException;
+import org.apache.zookeeper.ZooKeeper;
+import oshi.SystemInfo;
+import oshi.hardware.CentralProcessor;
 
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
-import java.net.URLDecoder;
-import java.nio.charset.StandardCharsets;
-import java.util.*;
+import java.util.Scanner;
 import java.util.concurrent.Executors;
+import java.util.Map;
+import java.util.List;
+import java.util.HashMap;
+import java.util.Set;
+import java.util.HashSet;
+import java.util.Arrays;
+import java.util.ArrayList;
 
 public class ProcessingServer {
     private static ZooKeeperConnector zooKeeperConnector;
     private static String zNodePath = "/processing_servers";
+    private static SystemInfo systemInfo = new SystemInfo();
+    private static CentralProcessor processor = systemInfo.getHardware().getProcessor();
 
     public static void main(String[] args) throws IOException, KeeperException, InterruptedException {
         if (args.length != 1) {
@@ -33,7 +42,8 @@ public class ProcessingServer {
         // Crear servidor HTTP
         HttpServer server = HttpServer.create(new InetSocketAddress(port), 0);
         server.createContext("/process", new ProcessHandler());
-        server.setExecutor(Executors.newFixedThreadPool(10)); // Create a thread pool with 10 threads
+        server.createContext("/cpu", new CpuHandler());
+        server.setExecutor(Executors.newFixedThreadPool(10)); // Crear un pool de hilos con 10 hilos
         server.start();
         System.out.println("ProcessingServer running on port " + port);
     }
@@ -114,6 +124,27 @@ public class ProcessingServer {
                 }
             }
             return texts;
+        }
+    }
+
+    static class CpuHandler implements HttpHandler {
+        @Override
+        public void handle(HttpExchange exchange) throws IOException {
+            if ("GET".equals(exchange.getRequestMethod())) {
+                double cpuUsage = getCpuUsage();
+                String response = String.valueOf(cpuUsage);
+                exchange.sendResponseHeaders(200, response.getBytes().length);
+                OutputStream os = exchange.getResponseBody();
+                os.write(response.getBytes());
+                os.close();
+            } else {
+                exchange.sendResponseHeaders(405, -1); // 405 Method Not Allowed
+            }
+        }
+
+        private double getCpuUsage() {
+            double[] load = processor.getSystemLoadAverage(3);
+            return load[0] >= 0 ? load[0] * 100 : 0.0;  // OSHI devuelve la carga en fracción de 1.0
         }
     }
 }
