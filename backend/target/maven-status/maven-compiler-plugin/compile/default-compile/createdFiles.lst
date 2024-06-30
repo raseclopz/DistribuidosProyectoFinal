@@ -1,4 +1,4 @@
 backend/ZooKeeperConnector.class
 backend/BackendServer.class
 backend/BackendServer$ConsultaHandler.class
-backend/ZooKeeperConnector$1.class
+backend/BackendServer$CpuHandler.class

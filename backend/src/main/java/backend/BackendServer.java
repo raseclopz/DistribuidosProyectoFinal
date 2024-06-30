@@ -2,6 +2,8 @@ package backend;
 
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.ZooKeeper;
+import oshi.SystemInfo;
+import oshi.hardware.CentralProcessor;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -19,18 +21,26 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.stream.Collectors;
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
 import java.io.File;
 import java.util.Scanner;
+import oshi.SystemInfo;
+import oshi.hardware.CentralProcessor;
 
 public class BackendServer {
     private static ZooKeeperConnector zooKeeperConnector;
     private static List<String> texts = new ArrayList<>();
     private static List<String> textNames = new ArrayList<>();
     private static String zNodePath = "/processing_servers";
+    private static SystemInfo systemInfo = new SystemInfo();
+    private static CentralProcessor processor = systemInfo.getHardware().getProcessor();
+    private static long[] prevTicks = processor.getSystemCpuLoadTicks(); // Guardar los ticks iniciales
+    private static final Logger logger = Logger.getLogger(BackendServer.class.getName());
 
     public static void main(String[] args) throws IOException, KeeperException, InterruptedException {
         // Conectar a ZooKeeper
@@ -42,9 +52,10 @@ public class BackendServer {
 
         HttpServer server = HttpServer.create(new InetSocketAddress(8081), 0);
         server.createContext("/consulta", new ConsultaHandler());
+        server.createContext("/cpu", new CpuHandler()); // Agregar endpoint de CPU
         server.setExecutor(null);
         server.start();
-        System.out.println("BackendServer running on port 8081");
+        logger.info("BackendServer running on port 8081");
     }
 
     private static void loadTexts() throws IOException {
@@ -57,10 +68,10 @@ public class BackendServer {
                 String content = new String(Files.readAllBytes(Paths.get(file.getPath())));
                 texts.add(content);
                 textNames.add(file.getName().replace(".txt", ""));  // Guardar el nombre del libro sin la extensión
-                System.out.println("Loaded text from: " + file.getPath());  // Mensaje de depuración
+                logger.info("Loaded text from: " + file.getPath());  // Mensaje de depuración
             }
         } else {
-            System.out.println("No files found in texts folder.");  // Mensaje de depuración
+            logger.warning("No files found in texts folder.");  // Mensaje de depuración
         }
     }
 
@@ -73,6 +84,7 @@ public class BackendServer {
             List<String> activeServers;
             try {
                 activeServers = zooKeeperConnector.getActiveServers();
+                logger.info("Active servers: " + activeServers.size());
             } catch (KeeperException | InterruptedException e) {
                 e.printStackTrace();
                 exchange.sendResponseHeaders(500, -1); // Internal Server Error
@@ -80,7 +92,7 @@ public class BackendServer {
             }
 
             if (activeServers.isEmpty()) {
-                System.out.println("No active servers available.");
+                logger.warning("No active servers available.");
                 exchange.sendResponseHeaders(503, -1);  // Service Unavailable
                 return;
             }
@@ -92,12 +104,17 @@ public class BackendServer {
             int numActiveServers = activeServers.size();
             int textsPerServer = (int) Math.ceil((double) texts.size() / numActiveServers);
 
+            logger.info("Number of active servers: " + numActiveServers);
+            logger.info("Number of texts per server: " + textsPerServer);
+
             List<CompletableFuture<Void>> futures = new ArrayList<>();
 
             for (int i = 0; i < numActiveServers; i++) {
                 final int serverIndex = i;
                 final List<String> textSlice = new ArrayList<>(texts.subList(serverIndex * textsPerServer, Math.min((serverIndex + 1) * textsPerServer, texts.size())));
                 final List<String> textNameSlice = new ArrayList<>(textNames.subList(serverIndex * textsPerServer, Math.min((serverIndex + 1) * textsPerServer, textNames.size())));
+
+                logger.info("Server " + activeServers.get(serverIndex) + " processing " + textNameSlice.size() + " texts.");
 
                 CompletableFuture<Void> future = CompletableFuture.runAsync(() -> {
                     try {
@@ -178,6 +195,30 @@ public class BackendServer {
                 sb.append("##TEXT##").append(textNames.get(i)).append("##CONTENT##").append(texts.get(i)).append("##END##");
             }
             return sb.toString();
+        }
+    }
+
+    static class CpuHandler implements HttpHandler {
+        @Override
+        public void handle(HttpExchange exchange) throws IOException {
+            if ("GET".equals(exchange.getRequestMethod())) {
+                double cpuUsage = getCpuUsage();
+                String response = String.valueOf(cpuUsage);
+                exchange.sendResponseHeaders(200, response.getBytes().length);
+                OutputStream os = exchange.getResponseBody();
+                os.write(response.getBytes());
+                os.close();
+            } else {
+                exchange.sendResponseHeaders(405, -1); // 405 Method Not Allowed
+            }
+        }
+
+        private double getCpuUsage() {
+            long[] ticks = processor.getSystemCpuLoadTicks();
+            double load = processor.getSystemCpuLoadBetweenTicks(prevTicks) * 100;
+            prevTicks = ticks;
+            logger.info("Measured CPU load: " + load);
+            return load;
         }
     }
 }

@@ -1,10 +1,10 @@
 package processing_server;
 
+import org.apache.zookeeper.KeeperException;
+import org.apache.zookeeper.ZooKeeper;
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
-import org.apache.zookeeper.KeeperException;
-import org.apache.zookeeper.ZooKeeper;
 import oshi.SystemInfo;
 import oshi.hardware.CentralProcessor;
 
@@ -13,19 +13,23 @@ import java.io.OutputStream;
 import java.net.InetSocketAddress;
 import java.util.Scanner;
 import java.util.concurrent.Executors;
-import java.util.Map;
 import java.util.List;
+import java.util.Map;
 import java.util.HashMap;
 import java.util.Set;
 import java.util.HashSet;
 import java.util.Arrays;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class ProcessingServer {
     private static ZooKeeperConnector zooKeeperConnector;
     private static String zNodePath = "/processing_servers";
     private static SystemInfo systemInfo = new SystemInfo();
     private static CentralProcessor processor = systemInfo.getHardware().getProcessor();
+    private static long[] prevTicks = processor.getSystemCpuLoadTicks(); // Guardar los ticks iniciales
+    private static final Logger logger = Logger.getLogger(ProcessingServer.class.getName());
 
     public static void main(String[] args) throws IOException, KeeperException, InterruptedException {
         if (args.length != 1) {
@@ -45,7 +49,7 @@ public class ProcessingServer {
         server.createContext("/cpu", new CpuHandler());
         server.setExecutor(Executors.newFixedThreadPool(10)); // Crear un pool de hilos con 10 hilos
         server.start();
-        System.out.println("ProcessingServer running on port " + port);
+        logger.info("ProcessingServer running on port " + port);
     }
 
     static class ProcessHandler implements HttpHandler {
@@ -59,9 +63,11 @@ public class ProcessingServer {
 
                 // Deserializar los datos recibidos
                 Map<String, String> texts = deserialize(body);
+                logger.info("Received " + texts.size() + " texts for processing.");
 
                 // Procesar los textos
                 List<String> results = processTexts(texts, getN(exchange.getRequestURI().getQuery()));
+                logger.info("Processed " + results.size() + " phrases.");
 
                 // Enviar la respuesta
                 String response = String.join("\n", results);
@@ -96,8 +102,10 @@ public class ProcessingServer {
 
                 for (int i = 0; i <= words.length - n; i++) {
                     String phrase = String.join(" ", Arrays.copyOfRange(words, i, i + n)).toLowerCase().replaceAll("[^a-z0-9 ]", "");
-                    phraseToTexts.putIfAbsent(phrase, new HashSet<>());
-                    phraseToTexts.get(phrase).add(textName);
+                    if (!phrase.trim().isEmpty()) {  // Ignorar frases vacías
+                        phraseToTexts.putIfAbsent(phrase, new HashSet<>());
+                        phraseToTexts.get(phrase).add(textName);
+                    }
                 }
             }
 
@@ -132,6 +140,7 @@ public class ProcessingServer {
         public void handle(HttpExchange exchange) throws IOException {
             if ("GET".equals(exchange.getRequestMethod())) {
                 double cpuUsage = getCpuUsage();
+                logger.info("CPU Usage reported: " + cpuUsage);
                 String response = String.valueOf(cpuUsage);
                 exchange.sendResponseHeaders(200, response.getBytes().length);
                 OutputStream os = exchange.getResponseBody();
@@ -143,8 +152,11 @@ public class ProcessingServer {
         }
 
         private double getCpuUsage() {
-            double[] load = processor.getSystemLoadAverage(3);
-            return load[0] >= 0 ? load[0] * 100 : 0.0;  // OSHI devuelve la carga en fracción de 1.0
+            long[] ticks = processor.getSystemCpuLoadTicks();
+            double load = processor.getSystemCpuLoadBetweenTicks(prevTicks) * 100;
+            prevTicks = ticks;
+            logger.info("Calculated CPU Usage: " + load);
+            return load;
         }
     }
 }

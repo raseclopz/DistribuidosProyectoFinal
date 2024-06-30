@@ -1,0 +1,1000 @@
+Annotation
+
+Hawking pasa revista a las grandes teorías cosmológicas desde Aristóteles hasta
+nuestros dias. Tras explicar con gran claridad las aportaciones de Galileo y
+Newton, nos lleva paso a paso, hasta la teoría de la relatividad de Einstein y
+hasta la otra gran teoría física del siglo XX, la mecánica cuántica. Finalmente
+explora las posibilidades de combinar ambas teorías en una sola teoría
+unificada completa que nos permita verificar inquientantes reflexiones: ¿Cuál
+es la naturaleza del tiempo? Al colapsarse un universo en expansión ¿viaja el
+tiempo hacia atrás? ¿Puede ser el universo un continuum sin principios ni
+fronteras? Todo está en este libro mítico, reconocido por el mundo entero como
+una aportación de primer orden al pensamiento científico y a la entera cultura
+universal, en el que Hawking nos explica, con asombrosa sencillez, las leyes
+que desvelan la compleja danza geométrica creadora del mundo y de la vida.
+
+
+
+* * *
+
+
+
+
+
+Stephen Hawking
+
+AGRADECIMIENTOS
+
+Prólogo [1]
+
+INTRODUCCIÓN [2]
+
+Capítulo 1
+
+Capítulo 2
+
+Capítulo 3
+
+Capítulo 4
+
+Capítulo 5
+
+Capítulo 6
+
+Capítulo 7
+
+Capítulo 8
+
+Capítulo 9
+
+Capítulo 10
+
+Capítulo 11
+
+Capítulo 12
+
+ALBERT EINSTEIN
+
+GALILEO GALILEI
+
+ISAAC NEWTON
+
+GLOSARIO
+
+
+
+
+
+notes[1] Este documento fue digitalizado de la primera versión en español,
+excepto el prólogo y el capítulo 10 que fue obtenido de la segunda versión
+(editada debido al exito obtenido). Por lo tanto, los cambios y actualizaciones
+que Hawking señala en este prólogo, no están reflejados en este documento. Nota
+del 'scanner'.
+
+
+
+
+
+* * *
+
+
+
+
+
+Stephen Hawking
+
+
+
+HISTORIA DEL TIEMPO
+
+
+
+
+
+Del Big Bang a los Agujeros Negros
+
+
+
+
+Nota sobre esta versión digital
+
+
+Se digitalizó de la primera versión en español, excepto el prólogo escrito por
+Stephen Hawking, traducido de la versión remozada en inglés, y el capítulo 10
+(agujeros de gusano y viajes en el tiempo), el cual fue digitalizado de la
+versión remozada en español. La introducción original escrita por Carl Sagan se
+mantuvo, así como los agradecimientos, ambos de la primera versión. Los
+agradecimientos de la versión posterior no se incluyeron. Las imágenes
+corresponden a la versión en inglés
+
+
+
+Este libro está dedicado a Jane
+
+
+
+
+
+AGRADECIMIENTOS
+
+
+
+
+
+Decidí escribir una obra de divulgación sobre el espacio y el tiempo después de
+impartir en Harvard las conferencias Loeb de 1982. Ya existía una considerable
+bibliografía acerca del universo primitivo y de los agujeros negros, en la que
+figuraban desde libros muy buenos, como el de Steven Weinberg, Los tres
+primeros minutos del universo, hasta otros muy malos, que no nombraré. Sin
+embargo, sentía que ninguno de ellos se dirigía realmente a las cuestiones que
+me habían llevado a investigar en cosmología y en la teoría cuántica: ¿de dónde
+viene el universo? ¿Cómo y por qué empezó? ¿Tendrá un final, y, en caso
+afirmativo, cómo será? Estas son cuestiones de interés para todos los hombres.
+Pero la ciencia moderna se ha hecho tan técnica que sólo un pequeño número de
+especialistas son capaces de dominar las matemáticas utilizadas en su
+descripción. A pesar de ello, las ideas básicas acerca del origen y del destino
+del universo pueden ser enunciadas sin matemáticas, de tal manera que las
+personas sin una educación científica las puedan entender. Esto es lo que he
+intentado hacer en este libro. El lector debe juzgar si lo he conseguido.
+
+Alguien me dijo que cada ecuación que incluyera en el libro reduciría las
+ventas a la mitad. Por consiguiente, decidí no poner ninguna en absoluto. Al
+final, sin embargo, sí que incluí una ecuación, la famosa ecuación de Einstein,
+E=mc2. Espero que esto no asuste a la mitad de mis potenciales lectores.
+
+Aparte de haber sido lo suficientemente desafortunado como para contraer el
+ALS, o enfermedad de las neuronas motoras, he tenido suerte en casi todos los
+demás aspectos. La ayuda y apoyo que he recibido de mi esposa, Jane, y de mis
+hijos, Robert, Lucy y Timmy, me han hecho posible llevar una vida bastante
+normal y tener éxito en mi carrera. Fui de nuevo afortunado al elegir la física
+teórica, porque todo está en la mente. Así, mi enfermedad no ha constituido una
+seria desventaja. Mis colegas científicos han sido, sin excepción, una gran
+ayuda para mí.
+
+En la primera fase «clásica» de mi carrera, mis compañeros y colaboradores
+principales fueron Roger Penrose, Robert Geroch, Brandon Carter y George Ellis.
+Les estoy agradecido por la ayuda que me prestaron y por el trabajo que
+realizamos juntos. Esta fase fue recogida en el libro The Large Scale Structure
+of Spacetime, que Ellis y yo escribimos en 1973. Desaconsejaría a los lectores
+de este libro consultar esa obra para una mayor información: es altamente
+técnica y bastante árida. Espero haber aprendido desde entonces a escribir de
+una manera más fácil de entender.
+
+En la segunda fase «cuántica» de mi trabajo, desde 1974, mis principales
+colaboradores han sido Gary Gibbons, Don Page y Jim Hartle. Les debo mucho a
+ellos y a mis estudiantes de investigación, que me han ayudado muchísimo, tanto
+en el sentido físico como en el sentido teórico de la palabra. El haber tenido
+que mantener el ritmo de mis estudiantes ha sido un gran estímulo, y ha
+evitado, así lo espero, que me quedase anclado en la rutina.
+
+Para la realización de este libro he recibido gran ayuda de Brian Whitt, uno de
+mis alumnos. Contraje una neumonía en 1985, después de haber escrito el primer
+borrador. Se me tuvo que realizar una operación de traqueotomía que me privó de
+la capacidad de hablar, e hizo casi imposible que pudiera comunicarme. Pensé
+que sería incapaz de acabarlo. Sin embargo, Brian no sólo me ayudó a revisarlo,
+sino que también me enseñó a utilizar un programa de comunicaciones llamado
+Living Center ('centro viviente'), donado por Walt Woltosz, de Words Plus Inc.,
+en Sunnyvale, California. Con él puedo escribir libros y artículos, y además
+hablar con la gente por medio de un sintetizador donado por Speech Plus,
+también de Sunnyvale. El sintetizador y un pequeño ordenador personal fueron
+instalados en mi silla de ruedas por David Mason. Este sistema le ha dado la
+vuelta a la situación: de hecho, me puedo comunicar mejor ahora que antes de
+perder la voz.
+
+He recibido múltiples sugerencias sobre cómo mejorar el libro, aportadas por
+gran cantidad de personas que habían leído versiones preliminares. En
+particular, de Peter Guzzardi, mi editor en Bantam Books, quien me envió
+abundantes páginas de comentarios y preguntas acerca de puntos que él creía que
+no habían sido explicados adecuadamente. Debo admitir que me irrité bastante
+cuando recibí su extensa lista de cosas que debían ser cambiadas, pero él tenía
+razón. Estoy seguro de que este libro ha mejorado mucho gracias a que me hizo
+trabajar sin descanso.
+
+Estoy muy agradecido a mis ayudantes, Colin Williams, David Thomas y Raymond
+Lafiamme; a mis secretarias Judy Fella, Ann Ralph, Cheryl Billington y Sue
+Masey; y a mi equipo de enfermeras. Nada de esto hubiera sido posible sin la
+ayuda económica, para mi investigación y los gastos médicos, recibida de
+Gonville and Caius College, el Science and Engineeering Research Council, y las
+fundaciones Leverhulme, MeArthur, Nufield y Ralph Smith. Mi sincera gratitud a
+todos ellos.
+
+Stephen Hawking 20 de Octubre de 1987.
+
+
+
+
+
+Prólogo [1]
+
+
+
+
+
+Yo no escribí un prólogo a la edición original de Historia del Tiempo. Eso fue
+hecho por Carl Sagan. En cambio, escribí un pedazo corto titulado
+"Reconocimientos" en la que me aconsejaron que agradeciera a todos. Algunas de
+las fundaciones que me habían dado apoyo no estuvieron muy agradecidos de haber
+sido mencionados, sin embargo, también porque llevó a un gran aumento en
+aplicaciones.
+
+Yo pienso que nadie, mis publicadores, mi agente, o yo, esperó que el libro
+hiciera algo como lo que hizo. Estuvo en la lista de best-seller del London
+Sunday Times durante 237 semanas, más que cualquier otro libro (al parecer, no
+se cuentan la Biblia y Shakespeare). Se ha traducido en algo así como cuarenta
+idiomas y ha vendido aproximadamente una copia para cada 750 hombres, mujeres,
+y niños en el mundo. Como Nathan Myhrvold de Microsoft (un anterior editor mío)
+comentó: Yo he vendido más libros sobre física que Madona sobre sexo.
+
+El éxito de Historia del Tiempo indica que hay interés extendido en las
+preguntas grandes como: ¿De dónde vinimos nosotros? ¿Y por qué es el universo
+de la manera que es?
+
+He aprovechado la oportunidad para poner al día el libro e incluir nuevos
+resultados teóricos y observacionales obtenidos desde que el libro fue
+publicado por primera vez (en el Día de los Inocentes de abril, 1988). He
+incluido un nuevo capítulo de agujeros de gusano y viajes en el tiempo. La
+Teoría General de Einstein de Relatividad parece ofrecer la posibilidad que
+nosotros podríamos crear y podríamos mantener agujeros de gusano, pequeños
+tubos que conectan regiones diferentes de espacio-tiempo. En ese caso,
+podríamos ser capaces de usarlos para viajes rápidos a través de la galaxia o
+volver en el tiempo. Por supuesto, no hemos visto a nadie del futuro (¿o
+tenemos?) pero yo discuto una posible explicación para esto.
+
+También describo el progreso que se ha hecho recientemente encontrando
+"dualidades" o correspondencias entre teorías aparentemente diferentes de
+físicas. Estas correspondencias son una indicación fuerte que hay una teoría
+unificada completa de la física, pero ellas también sugieren que no pueda ser
+posible expresar esta teoría en una sola formulación fundamental. En cambio,
+nosotros podemos tener que usar reflexiones diferentes de la teoría subyacente
+en situaciones diferentes. Podríamos ser incapaces de representar la superficie
+de la tierra en un solo mapa y teniendo que usar mapas diferentes en regiones
+diferentes. Ésta sería una revolución en nuestra vista de la unificación de las
+leyes de ciencia pero no cambiaría el punto más importante: que el universo es
+gobernado por un juego de leyes racionales que nosotros podemos descubrir y
+podemos entender.
+
+En el lado observacional, lejos el desarrollo más importante ha sido la medida
+de fluctuaciones en la radiación de fondo de microondas por COBE (Cosmic
+Background Explorer satellite, satélite de Explorador de Fondo Cósmico) y otras
+colaboraciones. Estas fluctuaciones son la 'impresión dactilar' de la creación,
+las diminutas irregularidades iniciales en el por otra parte liso y uniforme
+universo temprano que después creció en las galaxias, estrellas, y todas las
+estructuras que vemos a nuestro alrededor. Su forma está de acuerdo con las
+predicciones de la propuesta que el universo no tiene ningún límite o bordes en
+la dirección de tiempo imaginaria; pero extensas observaciones serán necesarias
+para distinguir esta propuesta de otras posibles explicaciones para las
+fluctuaciones en el fondo. Sin embargo, dentro de unos años deberíamos saber si
+podemos creer que vivimos en un universo que es completamente autónomo y sin
+comienzo o finaliza.
+
+Stephen Hawking
+
+
+
+
+
+INTRODUCCIÓN [2]
+
+
+
+
+
+Nos movemos en nuestro ambiente diario sin entender casi nada acerca del mundo.
+Dedicamos poco tiempo a pensar en el mecanismo que genera la luz solar que hace
+posible la vida, en la gravedad que nos ata a la Tierra y que de otra forma nos
+lanzaría al espacio, o en los átomos de los que estamos constituidos y de cuya
+estabilidad dependemos de manera fundamental. Excepto los niños (que no saben
+lo suficiente como para no preguntar las cuestiones importantes), pocos de
+nosotros dedicamos tiempo a preguntarnos por qué la naturaleza es de la forma
+que es, de dónde surgió el cosmos, o si siempre estuvo aquí, si el tiempo
+correrá en sentido contrario algún día y los efectos precederán a las causas, o
+si existen límites fundamentales acerca de lo que los humanos pueden saber. Hay
+incluso niños, y yo he conocido alguno, que quieren saber a qué se parece un
+agujero negro, o cuál es el trozo más pequeño de la materia, o por qué
+recordamos el pasado y no el futuro, o cómo es que, si hubo caos antes, existe,
+aparentemente, orden hoy, y, en definitiva, por qué hay un universo.
+
+En nuestra sociedad aún sigue siendo normal para los padres y los maestros
+responder a estas cuestiones con un encogimiento de hombros, o con una
+referencia a creencias religiosas vagamente recordadas. Algunos se sienten
+incómodos con cuestiones de este tipo, porque nos muestran vívidamente las
+limitaciones del entendimiento humano.
+
+Pero gran parte de la filosofía y de la ciencia han estado guiadas por tales
+preguntas. Un número creciente de adultos desean preguntar este tipo de
+cuestiones, y, ocasionalmente, reciben algunas respuestas asombrosas.
+Equidistantes de los átomos y de las estrellas, estamos extendiendo nuestros
+horizontes exploratorios para abarcar tanto lo muy pequeño como lo muy grande.
+
+En la primavera de 1974, unos dos años antes de que la nave espacial Viking
+aterrizara en Marte, estuve en una reunión en Inglaterra, financiada por la
+Royal Society de Londres, para examinar la cuestión de cómo buscar vida
+extraterrestre. Durante un descanso noté que se estaba celebrando una reunión
+mucho mayor en un salón adyacente, en el cual entré movido por la curiosidad.
+Pronto me di cuenta de que estaba siendo testigo de un rito antiquísimo, la
+investidura de nuevos miembros de la Royal Society, una de las más antiguas
+organizaciones académicas del planeta. En la primera fila, un joven en una
+silla de ruedas estaba poniendo, muy lentamente, su nombre en un libro que
+lleva en sus primeras páginas la firma de
+
+Isaac Newton. Cuando al final acabó, hubo una conmovedora ovación. Stephen
+Hawking era ya una leyenda.
+
+Hawking ocupa ahora la cátedra Lucasian de matemáticas de la Universidad de
+Cambridge, un puesto que fue ocupado en otro tiempo por Newton y después por
+P.A.M. Dirac, dos célebres exploradores de lo muy grande y lo muy pequeño. Él
+es su valioso sucesor. Este, el primer libro de Hawking para el no
+especialista, es una fuente de satisfacciones para la audiencia profana. Tan
+interesante como los contenidos de gran alcance del libro es la visión que
+proporciona de los mecanismos de la mente de su autor. En este libro hay
+revelaciones lúcidas sobre las fronteras de la física, la astronomía, la
+cosmología, y el valor.
+
+También se trata de un libro acerca de Dios... o quizás acerca de la ausencia
+de Dios. La palabra Dios llena estas páginas.
+
+Hawking se embarca en una búsqueda de la respuesta a la famosa pregunta de
+Einstein sobre si Dios tuvo alguna posibilidad de elegir al crear el universo.
+Hawking intenta, como él mismo señala, comprender el pensamiento de Dios. Y
+esto hace que sea totalmente inesperada la conclusión de su esfuerzo, al menos
+hasta ahora: un universo sin un borde espacial, sin principio ni final en el
+tiempo, y sin lugar para un Creador.
+
+Carl Sagan Universidad de Cornell, lthaca, Nueva York
+
+
+
+
+
+Capítulo 1
+
+
+
+NUESTRA IMAGEN DEL UNIVERSO
+
+
+
+
+
+Un conocido científico (algunos dicen que fue Bertrand Russell) daba una vez
+una conferencia sobre astronomía. En ella describía cómo la Tierra giraba
+alrededor del Sol y cómo éste, a su vez, giraba alrededor del centro de una
+vasta colección de estrellas conocida como nuestra galaxia. Al final de la
+charla, una simpática señora ya de edad se levantó y le dijo desde el fondo de
+la sala: «Lo que nos ha contado usted no son más que tonterías. El mundo es en
+realidad una plataforma plana sustentada por el caparazón de una tortuga
+gigante». El científico sonrió ampliamente antes de replicarle, «¿y en qué se
+apoya la tortuga?». «Usted es muy inteligente, joven, muy inteligente —dijo la
+señora—. ¡Pero hay infinitas tortugas una debajo de otra!».
+
+La mayor parte de la gente encontraría bastante ridícula la Imagen de nuestro
+universo como una torre infinita de tortugas, pero ¿,en qué nos basamos para
+creer que lo conocemos mejor? ¿.Qué sabemos acerca del universo, y cómo hemos
+llegado a saberlo. ¿De dónde surgió el universo, y a dónde va? ¿Tuvo el univer
+so un principio, y, si así fue, que sucedió con anterioridad a él? ¿Cuál es la
+naturaleza del tiempo? ¿Llegará éste alguna vez a un final? Avances recientes
+de la física, posibles en parte gracias a fantásticas nuevas tecnologías,
+sugieren respuestas a algunas de estas preguntas que desde hace mucho tiempo
+nos preocupan. Algún día estas respuestas podrán parecernos tan obvias como el
+que la Tierra gire alrededor del Sol, o, quizás, tan ridículas como una torre
+de tortugas. Sólo el tiempo (cualquiera que sea su significado) lo dirá.
+
+Ya en el año 340 a.C. el filósofo griego Aristóteles, en su libro De los
+Cielos, fue capaz de establecer dos buenos argumentos para creer que la Tierra
+era una esfera redonda en vez de una plataforma plana. En primer lugar, se dio
+cuenta de que los eclipses lunares eran debidos a que la Tierra se situaba
+entre el Sol y la Luna. La sombra de la Tierra sobre la Luna era siempre
+redonda. Si la Tierra hubiera sido un disco plano, su sombra habría sido
+alargada y elíptica a menos que el eclipse siempre ocurriera en el momento en
+que el Sol estuviera directamente debajo del centro del disco. En segundo
+lugar, los griegos sabían, debido a sus viajes, que la estrella Polar aparecía
+más baja en el cielo cuando se observaba desde el sur que cuando se hacía desde
+regiones más al norte. (Como la estrella Polar está sobre el polo norte,
+parecería estar justo encima de un observador situado en dicho polo, mientras
+que para alguien que mirara desde el ecuador parecería estar justo en el
+horizonte.) A partir de la diferencia en la posición aparente de la estrella
+Polar entre Egipto y Grecia, Aristóteles incluso estimó que la distancia
+alrededor de la Tierra era de 400.000 estadios. No se conoce con exactitud cuál
+era la longitud de un estadio, pero puede que fuese de unos 200 metros, lo que
+supondría que la estimación de Aristóteles era aproximadamente el doble de la
+longitud hoy en día aceptada. Los griegos tenían incluso un tercer argumento en
+favor de que la Tierra debía de ser redonda, ¿por qué, si no, ve uno primero
+las velas de un barco que se acerca en el horizonte, y sólo después se ve el
+casco?
+
+
+
+Figura 1:1
+
+Aristóteles creía que la Tierra era estacionaria y que el Sol, la luna, los
+planetas y las estrellas se movían en órbitas circulares alrededor de ella.
+Creía eso porque estaba convencido, por razones místicas, de que la Tierra era
+el centro del universo y de que el movimiento circular era el más perfecto.
+Esta idea fue ampliada por Ptolomeo en el siglo ii d.C. hasta constituir un
+modelo cosmológico completo. La Tierra permaneció en el centro, rodeada por
+ocho esferas que transportaban a la Luna, el Sol, las estrellas y los cinco
+planetas conocidos en aquel tiempo, Mercurio, Venus, Marte, Júpiter y Saturno
+(figura 1. l). Los planetas se movían en círculos más pequeños engarzados en
+sus respectivas esferas para que así se pudieran explicar sus relativamente
+complicadas trayectorias celestes. La esfera más externa transportaba a las
+llamadas estrellas fijas, las cuales siempre permanecían en las mismas
+posiciones relativas, las unas con respecto de las otras, girando juntas a
+través del cielo. Lo que había detrás de la última esfera nunca fue descrito
+con claridad, pero ciertamente no era parte del universo observable por el
+hombre.
+
+El modelo de Ptolomeo proporcionaba un sistema razonablemente preciso para
+predecir las posiciones de los cuerpos celestes en el firmamento. Pero, para
+poder predecir dichas posiciones correctamente, Ptolomeo tenía que suponer que
+la Luna seguía un camino que la situaba en algunos instantes dos veces más
+cerca de la Tierra que en otros. ¡Y esto significaba que la Luna debería
+aparecer a veces con tamaño doble del que usualmente tiene! Ptolomeo reconocía
+esta inconsistencia, a pesar de lo cual su modelo fue amplia, aunque no
+universalmente, aceptado. Fue adoptado por la Iglesia cristiana como la imagen
+del universo que estaba de acuerdo con las Escrituras, y que, además,
+presentaba la gran ventaja de dejar, fuera de la esfera de las estrellas fijas,
+una enorme cantidad de espacio para el cielo y el infierno.
+
+Un modelo más simple, sin embargo, fue propuesto, en 1514, por un cura polaco,
+Nicolás Copérnico. (Al principio, quizás por miedo a ser tildado de hereje por
+su propia iglesia, Copérnico hizo circular su modelo de forma anónima.) Su idea
+era que el Sol estaba estacionario en el centro y que la Tierra y los planetas
+se movían en órbitas circulares a su alrededor. Pasó casi un siglo antes de que
+su idea fuera tomada verdaderamente en serio. Entonces dos astrónomos, el
+alemán Johannes Kepler y el italiano Galileo Galilei, empezaron a apoyar
+públicamente la teoría copernicana, a pesar de que las órbitas que predecía no
+se ajustaban fielmente a las observadas. El golpe mortal a la teoría
+aristotélico/ptolemaica llegó en 1609. En ese año, Galileo comenzó a observar
+el cielo nocturno con un telescopio, que acababa de inventar. Cuando miró al
+planeta Júpiter, Galileo encontró que éste estaba acompañado por varios
+pequeños satélites o lunas que giraban a su alrededor. Esto implicaba que no
+todo tenia que girar directamente alrededor de la Tierra, como Aristóteles y
+Ptolomeo habían supuesto. (Aún era posible, desde luego, creer que las lunas de
+Júpiter se movían en caminos extremadamente complicados alrededor de la
+T'ierra, aunque daban la impresión de girar en torno a Júpiter. Sin embargo, la
+teoría de Copérnico era mucho más simple.) Al mismo tiempo, Johannes Kepler
+había modificado la teoría de Copérnico, sugiriendo que los planetas no se
+movían en círculos, sino en elipses (una elipse es un círculo alargado). Las
+predicciones se ajustaban ahora finalmente a las observaciones.
+
+Desde el punto de vista de Kepler, las órbitas elípticas constituían meramente
+una hipótesis ad hoc, y, de hecho, una hipótesis bastante desagradable, ya que
+las elipses eran claramente menos perfectas que los círculos. Kepler, al
+descubrir casi por accidente que las órbitas elípticas se ajustaban bien a las
+observaciones, no pudo reconciliarlas con su idea de que los planetas estaban
+concebidos para girar alrededor del Sol atraídos por fuerzas magnéticas. Una
+explicación coherente sólo fue proporcionada mucho más tarde, en 1687, cuando
+sir Isaac Newton publicó su Philosophiae Naturalis Principia Mathematica,
+probablemente la obra más importante publicada en las ciencias físicas en todos
+los tiempos. En ella, Newton no sólo presentó una teoría de cómo se mueven los
+cuerpos en el espacio y en el tiempo, sino que también desarrolló las
+complicadas matemáticas necesarias para analizar esos movimientos. Además,
+Newton postuló una ley de la gravitación universal, de acuerdo con la cual cada
+cuerpo en el universo era atraído por cualquier otro cuerpo con una fuerza que
+era tanto mayor cuanto más masivos fueran los cuerpos y cuanto más cerca
+estuvieran el uno del otro. Era esta misma fuerza la que hacía que los objetos
+cayeran al suelo. (La historia de que Newton fue inspirado por una manzana que
+cayó sobre su cabeza es casi seguro apócrifa. Todo lo que Newton mismo llegó a
+decir fue que la idea de la gravedad le vino cuando estaba sentado «en
+disposición contemplativa», de la que «únicamente le distrajo la caída de una
+manzana».) Newton pasó luego a mostrar que, de acuerdo con su ley, la gravedad
+es la causa de que la Luna se mueva en una órbita elíptica alrededor de la
+Tierra, y de que la Tierra y los planetas sigan caminos elípticos alrededor del
+Sol.
+
+El modelo copernicano se despojó de las esferas celestiales de Ptolomeo y, con
+ellas, de la idea de que el universo tiene una frontera natural. Ya que las
+«estrellas fijas» no parecían cambiar sus posiciones, aparte de una rotación a
+través del cielo causada por el giro de la Tierra sobre su eje, llegó a ser
+natural suponer que las estrellas fijas eran objetos como nuestro Sol, pero
+mucho más lejanos.
+
+Newton comprendió que, de acuerdo con su teoría de la gravedad, las estrellas
+deberían atraerse unas a otras, de forma que no parecía posible que pudieran
+permanecer esencialmente en reposo. ¿No llegaría un determinado momento en el
+que todas ellas se aglutinarían? En 1691, en una carta a Richard Bentley, otro
+destacado pensador de su época, Newton argumentaba que esto verdaderamente
+sucedería si sólo hubiera un número finito de estrellas distribuidas en una
+región finita del espacio. Pero razonaba que si, por el contrario, hubiera un
+número infinito de estrellas, distribuidas más o menos uniformemente sobre un
+espacio infinito, ello no sucedería, porque no habría ningún punto central
+donde aglutinarse.
+
+Este argumento es un ejemplo del tipo de dificultad que uno puede encontrar
+cuando se discute acerca del infinito. En un universo infinito, cada punto
+puede ser considerado como el centro, ya que todo punto tiene un número
+infinito de estrellas a cada lado. La aproximación correcta, que sólo fue
+descubierta mucho más tarde, es considerar primero una situación finita, en la
+que las estrellas tenderían a aglutinarse, y preguntarse después cómo cambia la
+situación cuando uno añade más estrellas uniformemente distribuidas fuera de la
+región considerada. De acuerdo con la ley de Newton, las estrellas extra no
+producirían, en general, ningún cambio sobre las estrellas originales, que por
+lo tanto continuarían aglutinándose con la misma rapidez. Podemos añadir tantas
+estrellas como queramos, que a pesar de ello las estrellas originales seguirán
+juntándose indefinidamente. Esto nos asegura que es imposible tener un modelo
+estático e infinito del universo, en el que la gravedad sea siempre atractiva.
+
+Un dato interesante sobre la corriente general del pensamiento anterior al
+siglo xx es que nadie hubiera sugerido que el universo se estuviera expandiendo
+o contrayendo. Era generalmente aceptado que el universo, o bien había existido
+por siempre en un estado inmóvil, o bien había sido creado, más o menos como lo
+observamos hoy, en un determinado tiempo pasado finito. En parte, esto puede
+deberse a la tendencia que tenemos las personas a creer en verdades eternas,
+tanto como al consuelo que nos proporciona la creencia de que, aunque podamos
+envejecer y morir, el universo permanece eterno e inmóvil.
+
+Incluso aquellos que comprendieron que la teoría de la gravedad de Newton
+mostraba que el universo no podía ser estático, no pensaron en sugerir que
+podría estar expandiéndose. Por el contrario, intentaron modificar la teoría
+suponiendo que la fuerza gravitacional fuese repulsiva a distancias muy
+grandes. Ello no afectaba significativamente a sus predicciones sobre el
+movimiento de los planetas, pero permitía que una distribución infinita de
+estrellas pudiera permanecer en equilibrio, con las fuerzas atractivas entre
+estrellas cercanas equilibradas por las fuerzas repulsivas entre estrellas
+lejanas. Sin embargo, hoy en día creemos que tal equilibrio sería inestable: si
+las estrellas en alguna región se acercaran sólo ligeramente unas a otras, las
+fuerzas atractivas entre ellas se harían más fuertes y dominarían sobre las
+fuerzas repulsivas, de forma que las estrellas, una vez que empezaran a
+aglutinarse, lo seguirían haciendo por siempre. Por el contrario, si las
+estrellas empezaran a separarse un poco entre sí, las fuerzas repulsivas
+dominarían alejando indefinidamente a unas estrellas de otras.
+
+Otra objeción a un universo estático infinito es normalmente atribuida al
+filósofo alemán Heinrich Olbers, quien escribió acerca de dicho modelo en 1823.
+En realidad, varios contemporáneos de Newton habían considerado ya el problema,
+y el artículo de Olbers no fue ni siquiera el primero en contener argumentos
+plausibles en contra del anterior modelo. Fue, sin embargo, el primero en ser
+ampliamente conocido. La dificultad a la que nos referíamos estriba en que, en
+un universo estático infinito, prácticamente cada línea de visión acabaría en
+la superficie de una estrella. Así, sería de esperar que todo el cielo fuera,
+incluso de noche, tan brillante como el Sol. El contraargumento de Olbers era
+que la luz de las estrellas lejanas estaría oscurecida por la absorción debida
+a la materia intermedia. Sin embargo, si eso sucediera, la materia intermedia
+se calentaría, con el tiempo, hasta que iluminara de forma tan brillante como
+las estrellas. La única manera de evitar la conclusión de que todo el cielo
+nocturno debería de ser tan brillante como la superficie del Sol sería suponer
+que las estrellas no han estado iluminando desde siempre, sino que se
+encendieron en un determinado instante pasado finito. En este caso, la materia
+absorbente podría no estar caliente todavía, o la luz de las estrellas
+distantes podría no habernos alcanzado aún. Y esto nos conduciría a la cuestión
+de qué podría haber causado el hecho de que las estrellas se hubieran encendido
+por primera vez.
+
+El principio del universo había sido discutido, desde luego, mucho antes de
+esto. De acuerdo con distintas cosmologías primitivas y con la tradición
+judeo-cristiana-musulmana, el universo comenzó en cierto tiempo pasado finito,
+y no muy distante. Un argumento en favor de un origen tal fue la sensación de
+que era necesario tener una «Causa Primera» para explicar la existencia del
+universo. (Dentro del universo, uno siempre explica un acontecimiento como
+causado por algún otro acontecimiento anterior, pero la existencia del universo
+en sí, sólo podría ser explicada de esta manera si tuviera un origen.) Otro
+argumento lo dio san Agustín en su libro La ciudad de Dios. Señalaba que la
+civilización está progresando y que podemos recordar quién realizó esta hazaña
+o desarrolló aquella técnica. Así, el hombre, y por lo tanto quizás también el
+universo, no podía haber existido desde mucho tiempo atrás. San Agustín, de
+acuerdo con el libro del Génesis, aceptaba una fecha de unos 5.000 años antes
+de Cristo para la creación del universo. (Es interesante comprobar que esta
+fecha no está muy lejos del final del último periodo glacial, sobre el 10.000
+a.C., que es cuando los arqueólogos suponen que realmente empezó la
+civilización.)
+
+Aristóteles, y la mayor parte del resto de los filósofos griegos, no eran
+partidarios, por el contrario, de la idea de la creación, porque sonaba
+demasiado a intervención divina. Ellos creían, por consiguiente, que la raza
+humana y el mundo que la rodea habían existido, y existirían, por siempre. Los
+antiguos ya habían considerado el argumento descrito arriba acerca del
+progreso, y lo habían resuelto diciendo que había habido inundaciones
+periódicas u otros desastres que repetidamente situaban a la raza humana en el
+principio de la civilización.
+
+Las cuestiones de si el universo tiene un principio en el tiempo y de si está
+limitado en el espacio fueron posteriormente examinadas de forma extensiva por
+el filósofo Immanuel Kant en su monumental (y muy oscura) obra, Crítica de la
+razón pura, publicada en 1781. Él llamó a estas cuestiones antinomias (es
+decir, contradicciones) de la razón pura, porque le parecía que había
+argumentos igualmente convincentes para creer tanto en la tesis, que el
+universo tiene un principio, como en la antítesis, que el universo siempre
+había existido. Su argumento en favor de la tesis era que si el universo no
+hubiera tenido un principio, habría habido un período de tiempo infinito
+anterior a cualquier acontecimiento, lo que él consideraba absurdo. El
+argumento en pro de la antítesis era que si el universo hubiera tenido un
+principio, habría habido un período de tiempo infinito anterior a él, y de este
+modo, ¿por qué habría de empezar el universo en un tiempo particular
+cualquiera? De hecho, sus razonamientos en favor de la tesis y de la antítesis
+son realmente el mismo argumento. Ambos están basados en la suposición
+implícita de que el tiempo continúa hacia atrás indefinidamente, tanto si el
+universo ha existido desde siempre como si no. Como veremos, el concepto de
+tiempo no tiene significado antes del comienzo del universo. Esto ya había sido
+señalado en primer lugar por san Agustín. Cuando se le preguntó: ¿Qué hacía
+Dios antes de que creara el universo?, Agustín no respondió: estaba preparando
+el infierno para aquellos que preguntaran tales cuestiones. En su lugar, dijo
+que el tiempo era una propiedad del universo que Dios había creado, y que el
+tiempo no existía con anterioridad al principio del universo.
+
+Cuando la mayor parte de la gente creía en un universo esencialmente estático e
+inmóvil, la pregunta de si éste tenía, o no, un principio era realmente una
+cuestión de carácter metafísico o teológico. Se podían explicar igualmente bien
+todas las observaciones tanto con la teoría de que el universo siempre había
+existido, como con la teoría de que había sido puesto en funcionamiento en un
+determinado tiempo finito, de tal forma que pareciera como si hubiera existido
+desde siempre. Pero, en 1929, Edwin Hubble hizo la observación crucial de que,
+donde quiera que uno mire, las galaxias distantes se están alejando de
+nosotros. O en otras palabras, el universo se está expandiendo. Esto significa
+que en épocas anteriores los objetos deberían de haber estado más juntos entre
+sí. De hecho, parece ser que hubo un tiempo, hace unos diez o veinte mil
+millones de años, en que todos los objetos estaban en el mismo lugar
+exactamente, y en el que, por lo tanto, la densidad del universo era infinita.
+Fue dicho descubrimiento el que finalmente llevó la cuestión del principio del
+universo a los dominios de la ciencia.
+
+Las observaciones de Hubble sugerían que hubo un tiempo, llamado el big bang
+(explosión o explosión primordial), en que el universo era infinitésimamente
+pequeño e infinitamente denso. Bajo tales condiciones, todas las leyes de la
+ciencia, y, por tanto, toda capacidad de predicción del futuro, se
+desmoronarían. Si hubiera habido acontecimientos anteriores a este no podrían
+afectar de ninguna manera a lo que ocurre en el presente. Su existencia podría
+ser ignorada, ya que ello no extrañaría consecuencias observables. Uno podría
+decir que e l tiempo tiene su origen en el big bang, en el sentido de que los
+tiempos anteriores simplemente no estarían definidos. Es señalar que este
+principio del tiempo es radicalmente diferente de aquellos previamente
+considerados. En un universo inmóvil, un principio del tiempo es algo que ha de
+ser impuesto por un ser externo al universo; no existe la necesidad de un
+principio. Uno puede imaginarse que Dios creó el universo en, textualmente,
+cualquier instante de tiempo. Por el contrario, si el universo se está
+expandiendo, pueden existir poderosas razones físicas para que tenga que haber
+un principio. Uno aún se podría imaginar que Dios creó el universo en el
+instante del big bang, pero no tendría sentido suponer que el universo hubiese
+sido creado antes del big bang. ¡Universo en expansión no excluye la existencia
+de un creador, pero sí establece límites sobre cuándo éste pudo haber llevado a
+cabo su misión!
+
+Para poder analizar la naturaleza del universo, y poder discutir cuestiones
+tales como si ha habido un principio o si habrá un final, es necesario tener
+claro lo que es una teoría científica. Consideremos aquí un punto de vista
+ingenuo, en el que una teoría es simplemente un modelo del universo, o de una
+parte de él, y un conjunto de reglas que relacionan las magnitudes del modelo
+con las observaciones que realizamos. Esto sólo existe en nuestras mentes, y no
+tiene ninguna otra realidad (cualquiera que sea lo que esto pueda significar).
+Una teoría es una buena teoría siempre que satisfaga dos requisitos: debe
+describir con precisión un amplio conjunto de observaciones sobre la base de un
+modelo que contenga sólo unos pocos parámetros arbitrarios, y debe ser capaz de
+predecir positivamente los resultados de observaciones futuras. Por ejemplo, la
+teoría de Aristóteles de que todo estaba constituido por cuatro elementos,
+tierra, aire, fuego y agua, era lo suficientemente simple como para ser
+cualificada como tal, pero fallaba en que no realizaba ninguna predicción
+concreta. Por el contrario, la teoría de la gravedad de Newton estaba basada en
+un modelo incluso más simple, en el que los cuerpos se atraían entre sí con una
+fuerza proporcional a una cantidad llamada masa e inversamente proporcional al
+cuadrado de la distancia entre ellos, a pesar de lo cual era capaz de predecir
+el movimiento del Sol, la Luna y los planetas con un alto grado de precisión.
+
+Cualquier teoría física es siempre provisional, en el sentido de que es sólo
+una hipótesis: nunca se puede probar. A pesar de que los resultados de los
+experimentos concuerden muchas veces con la teoría, nunca podremos estar
+seguros de que la próxima vez el resultado no vaya a contradecirla. Sin
+embargo, se puede rechazar una teoría en cuanto se encuentre una única
+observación que contradiga sus predicciones. Como ha subrayado el filósofo de
+la ciencia Karl
+
+Popper, una buena teoría está caracterizada por el hecho de predecir un gran
+número de resultados que en principio pueden ser refutados o invalidados por la
+observación. Cada vez que se comprueba que un nuevo experimento está de acuerdo
+con las predicciones, la teoría sobrevive y nuestra confianza en ella aumenta.
+Pero si por el contrario se realiza alguna vez una nueva observación que
+contradiga la teoría, tendremos que abandonarla o modificarla. 0 al menos esto
+es lo que se supone que debe suceder, aunque uno siempre puede cuestionar la
+competencia de la persona que realizó la observación.
+
+En la práctica, lo que sucede es que se construye una nueva teoría que en
+realidad es una extensión de la teoría original. Por ejemplo, observaciones
+tremendamente precisas del planeta Mercurio revelan una pequeña diferencia
+entre su movimiento y las predicciones de la teoría de la gravedad de Newton.
+La teoría de la relatividad general de Einstein predecía un movimiento de
+Mercurio ligeramente distinto del de la teoría de Newton. El hecho de que las
+predicciones de Einstein se ajustaran a las observaciones, mientras que las de
+Newton no lo hacían, fue una de las confirmaciones cruciales de la nueva
+teoría. Sin embargo, seguimos usando la teoría de Newton para todos los
+propósitos prácticos ya que las diferencias entre sus predicciones y las de la
+relatividad general son muy pequeñas en las situaciones que normalmente nos
+incumben. (¡La teoría de Newton también posee la gran ventaja de ser mucho más
+simple y manejable que la de Einstein!)
+
+El objetivo final de la ciencia es el proporcionar una única que describa
+correctamente todo el universo. Sin embargo, el método que la mayoría de los
+científicos siguen en realidad es el de separar el problema en dos partes.
+Primero, están las leyes que nos dicen cómo cambia el universo con el tiempo.
+(Si conocemos cómo es el universo en un instante dado, estas leves físicas nos
+dirán cómo será el universo en cualquier otro posterior.) Segundo, está la
+cuestión del estado inicial del universo. Algunas personas creen que la ciencia
+se debería ocupar únicamente de la primera parte: consideran el tema de la
+situación inicial del universo como objeto de la metafísica o la religión.
+Ellos argumentarían que Dios, al ser omnipotente, podría haber iniciado el
+universo de la manera que más le hubiera gustado. Puede ser que sí, pero en ese
+caso él también haberlo hecho evolucionar de un modo totalmente arbitrario. En
+cambio, parece ser que eligió hacerlo evolucionar de una manera muy regular
+siguiendo ciertas leyes. Resulta, así pues, igualmente razonable suponer que
+también hay leyes que gobiernan el estado inicial.
+
+Es muy difícil construir una única teoría capaz de describir todo el universo.
+En vez de ello, nos vemos forzados, de momento, a dividir el problema en varias
+partes, inventando un cierto número de teorías parciales. Cada una de estas
+teorías parciales describe y predice una cierta clase restringida de
+observaciones, despreciando los efectos de otras cantidades, o representando
+éstas por simples conjuntos de números. Puede ocurrir que esta aproximación sea
+completamente errónea. Si todo en el universo depende de absolutamente todo el
+resto de él de una manera fundamental, podría resultar imposible acercarse a
+una solución completa investigando partes aisladas del problema. Sin embargo,
+este es ciertamente el modo en que hemos progresado en el pasado. El ejemplo
+clásico es de nuevo la teoría de la gravedad de Newton, la cual nos dice que la
+fuerza gravitacional entre dos cuerpos depende únicamente de un número asociado
+a cada cuerpo, su masa, siendo por lo demás independiente del tipo de sustancia
+que forma el cuerpo. Así, no se necesita tener una teoría de la estructura y
+constitución del Sol y los planetas para poder determinar sus órbitas.
+
+Los científicos actuales describen el universo a través de dos teorías
+parciales fundamentales: la teoría de la relatividad general y la mecánica
+cuántica. Ellas constituyen el gran logro intelectual de la primera mitad de
+este siglo. La teoría de la relatividad general describe la fuerza de la
+gravedad y la estructura a gran escala del universo, es decir, la estructura a
+escalas que van desde sólo unos pocos kilómetros hasta un billón de billones
+(un 1 con veinticuatro ceros detrás) de kilómetros, el tamaño del universo
+observable. La mecánica cuántica, por el contrario, se ocupa de los fenómenos a
+escalas extremadamente pequeñas, tales como una billonésima de centímetro.
+Desafortunadamente, sin embargo, se sabe que estas dos teorías son
+inconsistentes entre sí: ambas no pueden ser correctas a la vez. Uno de los
+mayores esfuerzos de la física actual, y el tema principal de este libro, es la
+búsqueda de una nueva teoria que incorpore a las dos anteriores: una teoría
+cuántica de la gravedad. Aún no se dispone de tal teoría, y para ello todavía
+puede quedar un largo camino por recorrer, pero sí se conocen muchas de las
+propiedades que debe poseer. En capítulos posteriores veremos que ya se sabe
+relativamente bastante acerca de las predicciones que debe hacer una teoría
+cuántica de la gravedad.
+
+Si se admite entonces que el universo no es arbitrario, sino que está gobernado
+por ciertas leyes bien definidas, habrá que combinar al final las teorías
+parciales en una teoría unificada completa que describirá todos los fenómenos
+del universo. Existe, no obstante, una paradoja fundamental en nuestra búsqueda
+de esta teoría unificada completa. Las ideas anteriormente perfiladas sobre las
+teorías científicas suponen que somos seres racionales, libres para observar el
+universo como nos plazca y para extraer deducciones lógicas de lo que veamos.
+En tal esquema parece razonable suponer que podríamos continuar progresando
+indefinidamente, acercándonos cada vez más a las leyes que gobiernan el
+universo. Pero si realmente existiera una teoría unificada completa, ésta
+también determinaría presumiblemente nuestras acciones. ¡Así la teoría misma
+determinaría el resultado de nuestra búsqueda de ella! ¿Y por qué razón debería
+determinar que llegáramos a las verdaderas conclusiones a partir de la
+evidencia que nos presenta? ¿Es que no podría determinar igualmente bien que
+extrajéramos conclusiones erróneas? ¿O incluso que no extrajéramos ninguna
+conclusión en absoluto?
+
+La única respuesta que puedo dar a este problema se basa en el principio de la
+selección natural de Darwin. La idea estriba en que en cualquier población de
+organismos autorreproductores, habrá variaciones tanto en el material genético
+como en educación de los diferentes individuos. Estas diferencias supondrán que
+algunos individuos sean más capaces que otros para extraer las conclusiones
+correctas acerca del mundo que rodea, y para actuar de acuerdo con ellas.
+Dichos individuos tendrán más posibilidades de sobrevivir y reproducirse, de
+forma que su esquema mental y de conducta acabará imponiéndose. En el pasado ha
+sido cierto que lo que llamamos inteligencia y descubrimiento científico han
+supuesto una ventaja en el aspecto de la supervivencia. No es totalmente
+evidente que esto tenga que seguir siendo así: nuestros descubrimientos
+científicos podrían destruirnos a todos perfectamente, e, incluso si no lo
+hacen, una teoría unificada completa no tiene por qué suponer ningún cambio en
+lo concerniente a nuestras posibilidades de supervivencia. Sin embargo, dado
+que el universo ha evolucionado de un modo regular, podríamos esperar que las
+capacidades de razonamiento que la selección natural nos ha dado sigan siendo
+válidas en nuestra búsqueda de una teoría unificada completa, y no nos
+conduzcan a conclusiones erróneas.
+
+Dado que las teorías que ya poseemos son suficientes para realizar predicciones
+exactas de todos los fenómenos naturales, excepto de los más extremos, nuestra
+búsqueda de la teoría definitiva del universo parece difícil de justificar
+desde un punto de vista práctico. (Es interesante señalar, sin embargo, que
+argumentos similares podrían haberse usado en contra de la teoría de la
+relatividad y de la mecánica cuántica, las cuales nos han dado la energía
+nuclear y la revolución de la microelectrónica.) Así pues, el descubrimiento de
+una teoría unificada completa puede no ayudar a la supervivencia de nuestra
+especie. Puede incluso no afectar a nuestro modo de vida. Pero siempre, desde
+el origen de la civilización, la gente no se ha contentado con ver los
+acontecimientos como desconectados e inexplicables. Ha buscado incesantemente
+un conocimiento del orden subyacente del mundo. Hoy en día, aún seguimos
+anhelando saber por qué estamos aquí y de dónde venimos. El profundo deseo de
+conocimiento de la humanidad es justificación suficiente para continuar nuestra
+búsqueda. Y ésta no cesará hasta que poseamos una descripción completa del
+universo en el que vivimos.
+
+
+
+
+
+Capítulo 2
+
+
+
+ESPACIO Y TIEMPO
+
+
+
+
+
+Nuestras ideas actuales acerca del movimiento de los cuerpos se remontan a
+Galileo y Newton. Antes de ellos, se creía en las ideas de Aristóteles, quien
+decía que el estado natural de un cuerpo era estar en reposo y que éste sólo se
+movía si era empujado por una fuerza o un impulso. De ello se deducía que un
+cuerpo pesado debía caer más rápido que uno ligero, porque sufría una atracción
+mayor hacia la tierra.
+
+La tradición aristotélica también mantenía que se podrían deducir todas las
+leyes que gobiernan el universo por medio del pensamiento puro: no era
+necesario comprobarlas por medio de la observación. Así, nadie antes de Galileo
+se preocupó de ver si los cuerpos con pesos diferentes caían con velocidades
+diferentes. Se dice que Galileo demostró que las anteriores ideas de
+Aristóteles eran falsas dejando caer diferentes pesos desde la torre inclinada
+de Pisa. Es casi seguro que esta historia no es cierta, aunque lo que sí hizo
+Galileo fue algo equivalente: dejó caer bolas de distintos pesos a lo largo de
+un plano inclinado. La situación es muy similar a la de los cuerpos pesados que
+caen verticalmente, pero es más fácil de observar porque las velocidades son
+menores. Las mediciones de Galileo indicaron que cada cuerpo aumentaba su
+velocidad al mismo ritmo, independientemente de su peso. Por ejemplo, si se
+suelta una bola en una pendiente que desciende un metro por cada diez metros de
+recorrido, la bola caerá por la pendiente con una velocidad de un metro por
+segundo después de un segundo, de dos metros por segundo después de dos
+segundos, y así sucesivamente, sin importar lo pesada que sea la bola. Por
+supuesto que una bola de plomo caerá más rápida que una pluma, pero ello se
+debe únicamente a que la pluma es frenada por la resistencia del aire. Si uno
+soltara dos cuerpos que no presentasen demasiada resistencia al aire, tales
+como dos pesos diferentes de plomo, caerían con la misma rapidez.
+
+Las mediciones de Galileo sirvieron de base a Newton para la obtención de sus
+leyes del movimiento. En los experimentos de Galileo, cuando un cuerpo caía
+rodando, siempre actuaba sobre él la misma fuerza (su peso) y el efecto que se
+producía consistía en acelerarlo de forma constante. Esto demostraba que el
+efecto real de una fuerza era el de cambiar la velocidad del cuerpo, en vez de
+simplemente ponerlo en movimiento, como se pensaba anteriormente. Ello también
+significaba que siempre que sobre un cuerpo no actuara ninguna fuerza, éste se
+mantendría moviéndose en una línea recta con la misma velocidad. Esta idea fue
+formulada explícitamente por primera vez en los Principia Mathematica de
+Newton, publicados en 1687, y se conoce como primera ley de Newton. Lo que le
+sucede a un cuerpo cuando sobre él actúa una fuerza está recogido en la segunda
+ley de Newton. Ésta afirma que el cuerpo se acelerará, o cambiará sir
+velocidad, a un ritmo proporcional a la fuerza. (Por ejemplo, la aceleración se
+duplicará cuando la fuerza aplicada sea doble.) Al mismo tiempo, la aceleración
+disminuirá cuando aumente la masa (o la cantidad de materia) del cuerpo. (La
+misma fuerza actuando sobre un cuerpo de doble masa que otro, producirá la
+mitad de aceleración en el primero que en el segundo.) Un ejemplo familiar lo
+tenemos en un coche: cuanto más potente sea su motor mayor aceleración poseerá,
+pero cuanto más pesado sea el coche menor aceleración tendrá con el mismo motor.
+
+Además de las leyes del movimiento, Newton descubrió una ley que describía la
+fuerza de la gravedad, una ley que nos dice que todo cuerpo atrae a todos los
+demás cuerpos con una fuerza proporcional a la masa de cada uno de ellos. Así,
+la fuerza entre dos cuerpos se duplicará si uno de ellos (digamos, el cuerpo A)
+dobla su masa. Esto es lo que razonablemente se podría esperar, ya que uno
+puede suponer al nuevo cuerpo A formado por dos cuerpos, cada uno de ellos con
+la masa original. Cada uno de estos cuerpos atraerá al cuerpo B con la fuerza
+original. Por lo tanto, la fuerza total entre A y B será justo el doble que la
+fuerza original. Y si, por ejemplo, uno de los cuerpos tuviera una masa doble
+de la original y el otro cuerpo una masa tres veces mayor que al principio, la
+fuerza entre ellos sería seis veces más intensa que la original. Se puede ver
+ahora por qué todos los cuerpos caen con la misma rapidez: un cuerpo que tenga
+doble peso sufrirá una fuerza gravitatoria doble, pero al mismo tiempo tendrá
+una masa doble. De acuerdo con la segunda ley de Newton, estos dos efectos se
+cancelarán exactamente y la aceleración será la misma en ambos casos.
+
+La ley de la gravedad de Newton nos dice también que cuanto más separados estén
+los cuerpos menor será la fuerza gravitatoria entre ellos. La ley de la
+gravedad de Newton establece que la atracción gravitatoria producida por una
+estrella a una cierta distancia es exactamente la cuarta parte de la que
+produciría una estrella similar a la mitad de distancia. Esta ley predice con
+gran precisión las órbitas de la Tierra, la Luna y los planetas. Si la ley
+fuera que la atracción gravitatoria de una estrella decayera más rápidamente
+con la distancia, las órbitas de los planetas no serían elípticas, sino que
+éstos irían cayendo en espiral hacia el Sol. Si, por el contrario, la atracción
+gravitatoria decayera más lentamente, las fuerzas gravitatorias debidas a las
+estrellas lejanas dominarían frente a la atracción de la Tierra.
+
+La diferencia fundamental entre las ideas de Aristóteles y las de Galileo y
+Newton estriba en que Aristóteles creía en un estado preferente de reposo, en
+el que todas las cosas subyacerían, a menos que fueran empujadas por una fuerza
+o impulso. En particular, él creyó que la Tierra estaba en reposo. Por el
+contrario, de las leyes de Newton se desprende que no existe un único estándar
+de reposo. Se puede suponer igualmente o que el cuerpo A está en reposo y el
+cuerpo B se mueve a velocidad constante con respecto de A, o que el B está en
+reposo y es el cuerpo A el que se mueve. Por ejemplo, si uno se olvida de
+momento de la rotación de la Tierra y de su órbita alrededor del Sol, se puede
+decir que la Tierra está en reposo y que un tren sobre ella está viajando hacia
+el norte a ciento cuarenta kilómetros por hora, o se puede decir igualmente que
+el tren está en reposo y que la Tierra se mueve hacia el sur a ciento cuarenta
+kilómetros por hora. Si se realizaran experimentos en el tren con objetos que
+se movieran, comprobaríamos que todas las leyes de Newton seguirían siendo
+válidas. Por ejemplo, al jugar al ping-pong en el tren, uno encontraría que la
+pelota obedece las leyes de Newton exactamente igual a como lo haría en una
+mesa situada junto a la vía. Por lo tanto, no hay forma de distinguir si es el
+tren o es la Tierra lo que se mueve.
+
+La falta de un estándar absoluto de reposo significaba que no se podía
+determinar si dos acontecimientos que ocurrieran en tiempos diferentes habían
+tenido lugar en la misma posición espacial. Por ejemplo, supongamos que en el
+tren nuestra bola de ping-pong está botando, moviéndose verticalmente hacia
+arriba y hacia abajo y golpeando la mesa dos veces en el mismo lugar con un
+intervalo de un segundo. Para un observador situado junto a la vía, los dos
+botes parecerán tener lugar con una separación de unos cuarenta metros, ya que
+el tren habrá recorrido esa distancia entre los dos botes. Así pues la no
+existencia de un reposo absoluto significa que no se puede asociar una posición
+absoluta en el espacio con un suceso, como Aristóteles había creído. Las
+posiciones de los sucesos y la distancia entre ellos serán diferentes para una
+persona en el tren y para otra que esté al lado de la vía, y no existe razón
+para preferir el punto de vista de una de las personas frente al de la otra.
+
+Newton estuvo muy preocupado por esta falta de una posición absoluta, o espacio
+absoluto, como se le llamaba, porque no concordaba con su idea de un Dios
+absoluto. De hecho, rehusó aceptar la no existencia de un espacio absoluto, a
+pesar incluso de que estaba implicada por sus propias leyes. Fue duramente
+criticado por mucha gente debido a esta creencia irracional, destacando sobre
+todo la crítica del obispo Berkeley, un filósofo que creía que todos los
+objetos materiales, junto con el espacio y el tiempo, eran una ilusión. Cuando
+el famoso Dr. Johnson se enteró de la opinión de Berkeley gritó «¡Lo rebato
+así!» y golpeó con la punta del pie una gran piedra.
+
+Tanto Aristóteles como Newton creían en el tiempo absoluto. Es decir, ambos
+pensaban que se podía afirmar inequívocamente la posibilidad de medir el
+intervalo de tiempo entre dos sucesos sin ambigüedad, y que dicho intervalo
+sería el mismo para todos los que lo midieran, con tal que usaran un buen
+reloj. El tiempo estaba totalmente separado y era independiente del espacio.
+Esto es, de hecho, lo que la mayoría de la gente consideraría como de sentido
+común. Sin embargo, hemos tenido que cambiar nuestras ideas acerca del espacio
+y del tiempo. Aunque nuestras nociones de lo que parece ser el sentido común
+funcionan bien cuando se usan en el estudio del movimiento de las cosas, tales
+como manzanas o planetas, que viajan relativamente lentas, no funcionan, en
+absoluto, cuando se aplican a cosas que se mueven con o cerca de la velocidad
+de la luz.
+
+El hecho de que la luz viaja a una velocidad finita, aunque muy elevada, fue
+descubierto en 1676 por el astrónomo danés Ole Christensen Roemer. Él observó
+que los tiempos en los que las lunas de Júpiter parecían pasar por detrás de
+éste no estaban regularmente espaciados, como sería de esperar si las lunas
+giraran alrededor de Júpiter con un ritmo constante. Dado que la Tierra y
+Júpiter giran alrededor del Sol, la distancia entre ambos varía. Roemer notó
+que los eclipses de las lunas de Júpiter parecen ocurrir tanto más tarde cuanto
+más distantes de Júpiter estamos. Argumentó que se debía a que la luz
+proveniente de las lunas tardaba más en llegar a nosotros cuanto más lejos
+estábamos de ellas. Sus medidas sobre las variaciones de las distancias de la
+Tierra a Júpiter no eran, sin embargo, demasiado buenas, y así estimó un valor
+para la velocidad de la luz de 225.000 kilómetros por segundo, comparado con el
+valor moderno de 300.000 kilómetros por segundo. No obstante, no sólo el logro
+de Roemer de probar que la luz viaja a una velocidad finita, sino también de
+medir esa velocidad, fue notable, sobre todo teniendo en cuenta que esto
+ocurría once años antes de que Newton publicara los Principia Mathematica.
+
+Una verdadera teoría de la propagación de la luz no surgió hasta 1865, en que
+el físico británico James Clerk Maxwell consiguió unificar con éxito las
+teorías parciales que hasta entonces se habían usado para definir las fuerzas
+de la electricidad y el magnetismo. Las ecuaciones de Maxwell predecían que
+podían existir perturbaciones de carácter ondulatorio del campo
+electromagnético combinado, y que éstas viajarían a velocidad constante, como
+las olas de una balsa. Si tales ondas poseen una longitud de onda (la distancia
+entre una cresta de onda y la siguiente) de un metro o más, constituyen lo que
+hoy en día llamamos ondas de radio. Aquellas con longitudes de onda menores se
+llaman microondas (unos pocos centímetros) o infrarrojas (más de una
+diezmilésima de centímetro). La luz visible tiene sólo una longitud de onda de
+entre cuarenta y ochenta millonésimas de centímetro. Las ondas con todavía
+menores longitudes se conocen como radiación ultravioleta, rayos X y rayos
+gamma.
+
+La teoría de Maxwell predecía que tanto las ondas de radio como las luminosas
+deberían viajar a una velocidad fija determinada. La teoría de Newton se había
+desprendido, sin embargo, de un sistema de referencia absoluto, de tal forma
+que si se suponía que la luz viajaba a una cierta velocidad fija, había que
+especificar con respecto a qué sistema de referencia se medía dicha velocidad.
+Para que esto tuviera sentido, se sugirió la existencia de una sustancia
+llamada «éter» que estaba presente en todas partes, incluso en el espacio
+«vacío». Las ondas de luz debían viajar a través del éter al igual que las
+ondas de sonido lo hacen a través del aire, y sus velocidades deberían ser, por
+lo tanto, relativas al éter. Diferentes observadores, que se movieran con
+relación al éter, verían acercarse la luz con velocidades distintas, pero la
+velocidad de la luz con respecto al éter permanecería fija. En particular, dado
+que la Tierra se movía a través del éter en su órbita alrededor del Sol, la
+velocidad de la luz medida en la dirección del movimiento de la Tierra a través
+del éter (cuando nos estuviéramos moviendo hacia la fuente luminosa) debería
+ser mayor que la velocidad de la luz en la dirección perpendicular a ese
+movimiento (cuando no nos estuviéramos moviendo hacia la fuente). En 1887,

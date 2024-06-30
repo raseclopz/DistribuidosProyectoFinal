@@ -1,0 +1,1000 @@
+ISAAC ASIMOV***
+
+LAS TRES LEYES ROBÓTICAS
+
+INTRODUCCIÓN
+
+ROBBIE
+
+SENTIDO GIRATORIO
+
+RAZÓN
+
+ATRÁPAME ESTA LIEBRE
+
+¡EMBUSTERO!
+
+EL ROBOT PERDIDO
+
+¡LA FUGA!
+
+LA PRUEBA
+
+EL CONFLICTO INEVITABLE
+
+FIN
+
+
+
+
+
+* * *
+
+
+
+
+
+ISAAC ASIMOV
+
+YO, ROBOT
+
+
+
+
+
+Título original:
+
+I, robot
+
+
+
+Traducción de
+
+Manuel Bosch Barrett
+
+
+
+Primera edición: marzo de 1975
+
+Novena reimpresión: junio 1984
+
+
+
+Colección Nebulae N.o 1
+
+Edhasa/ Ciencia Ficción
+
+
+
+Edhasa, 1975
+
+Avda. Diagonal, 519-521
+
+Barcelona 29
+
+
+
+Impreso por Romany /Valls
+
+Verdaguer, 1 Capellades
+
+(Barcelona)
+
+
+
+I.S.B.N.: 84-350-0121-0
+
+
+
+Depósito legal: B. 21.134-1984
+
+
+
+
+
+***
+
+
+
+
+
+Isaac Asimov nació en 1920 en la Unión Soviética, y es doctor en bioquímica.
+Algunas de sus obras de ficción más importantes aparecieron en las revistas
+populares del género en la década de los cuarenta.
+
+
+
+
+
+LAS TRES LEYES ROBÓTICAS
+
+
+
+
+
+1. Un robot no debe dañar a un ser humano o, por su inacción, dejar que un ser
+humano sufra daño.
+
+2. Un robot debe obedecer las órdenes que le son dadas por un ser humano,
+excepto cuando estas órdenes están en oposición con la primera Ley.
+
+3. Un robot debe proteger su propia existencia, hasta donde esta protección no
+esté en conflicto con la primera o segunda Leyes.
+
+Manual de Robótica
+
+
+
+56ª edición, año 2058
+
+
+
+
+
+INTRODUCCIÓN
+
+
+
+
+
+He revisado mis notas y no me gustan. He pasado tres días en los U. S. Robots y
+lo mismo hubiera podido pasarlos en casa con la Enciclopedia Telúrica.
+
+Susan Calvin había nacido en 1982, dicen, por lo cual tendrá ahora setenta y
+cinco años. Esto lo sabe todo el mundo. Con bastante aproximación, la «U. S.
+Robots & Mechanical Men Inc.» tiene también setenta y cinco años, ya que fue el
+año del nacimiento de la doctora Calvin cuando Lawrence Robertson sentó las
+bases de lo que tenía que llegar a ser la más extraña y gigantesca industria en
+la historia del hombre. Bien, esto lo sabe también todo el mundo.
+
+A la edad de veinte años, Susan Calvin formó parte de la comisión investigadora
+psicomatemática ante la cual el Dr. Alfred Lanning, de la U. S. Robots,
+presentó el primer robot móvil equipado con voz. Era un robot grande, basto,
+sin la menor belleza, que olía a aceite de máquina y destinado a las
+proyectadas minas de Mercurio. Pero podía hablar y razonar.
+
+Susan no dijo nada en aquella ocasión; no tomó tampoco parte en las apasionadas
+polémicas que siguieron.
+
+Era una muchacha fría, sencilla e incolora, que se defendía contra un mundo que
+le desagradaba con una expresión de máscara y una hipertrofia del intelecto.
+Pero mientras observaba y escuchaba, sentía la tensión de un frío entusiasmo.
+
+Se graduó en la Universidad de Columbia en el año 2003, y empezó a dedicarse a
+la Cibernética.
+
+Todo lo que se había hecho durante la segunda mitad del siglo veinte en materia
+de «máquinas calculadoras» había sido anulado por Robertson y sus cerebros
+positrónicos. Las millas de cables y fotocélulas habían dado paso al globo
+esponjoso de platino-iridio del tamaño aproximado de un cerebro humano.
+
+Aprendió a calcular los parámetros necesarios para establecer las posibles
+variantes del «cerebro positrónico»; a construir «cerebros» sobre el papel, de
+una clase en que las respuestas a estímulos determinados podían producirse muy
+aproximadamente.
+
+En 2008, se doctoró en Filosofía e ingresó en la U. S. Robots como
+«robopsicóloga», convirtiéndose en la primera gran practicante de esta nueva
+ciencia. Lawrence Robertson era todavía presidente de la corporación; Alfred
+Lanning había sido nombrado director de investigaciones.
+
+Durante quince años vio cómo cambiaba la dirección del progreso humano, y
+avanzaba vertiginosamente.
+
+Ahora se retiraba... hasta donde podía. Por lo menos, permitía que la puerta de
+su despacho ostentase el nombre de otra persona.
+
+Esto, sencillamente, fue lo que supe. Tenía una larga lista de sus
+publicaciones, de las patentes a su nombre; conocía los detalles cronológicos
+de sus promociones, en una palabra, tenía su «vida» profesional con todo
+detalle.
+
+Pero todo esto no era lo que yo quería.
+
+Necesitaba algo más para mis artículos con destino a la Prensa Interplanetaria.
+Mucho más. Y así se lo dije.
+
+—Doctora Calvin —le dije tan amablemente como pude—, según la opinión general,
+la U. S. Robots y usted son equivalentes. Su retirada pondrá fin a una Era
+que...
+
+—¿Quiere usted el punto de vista del interés humano? —dijo sin sonreír.
+
+No creo que nunca sonriese. Pero sus ojos eran penetrantes, aunque no
+agresivos. Sentí que su mirada me atravesaba y salía por el occipucio y supe
+que era para ella de una transparencia inusitada; que todo el mundo lo era.
+
+—Exacto —dije.
+
+—¿El interés humano... de los robots? Esto es una contradicción.
+
+—No, doctora, de usted.
+
+—También me han llamado robot. Con seguridad le habrán dicho a usted que no soy
+humana.
+
+Me lo habían dicho, en efecto, pero no ganaba nada con confesarlo.
+
+Se levantó de la silla. No era alta y parecía frágil. La seguí hasta la ventana
+y nos asomamos a ella.
+
+Las oficinas y talleres de la U. S. Robots formaban una pequeña ciudad,
+espaciosa y bien planeada. Todo era achatado como una fotografía aérea.
+
+—Cuando vine aquí por primera vez —dijo—vivía en una pequeña habitación, allá a
+la derecha, donde está hoy el retén de bomberos. Fue derribada antes de que
+usted naciese. Compartía la habitación con tres personas. Tenía media mesa.
+Construíamos nuestros robots en un solo edificio. Producción... tres a la
+semana. Ahora fíjese.
+
+—Cincuenta años —aventuré—, es mucho tiempo.
+
+—No cuando una mira hacia atrás. Una se pregunta cómo han pasado tan aprisa.
+
+Volvió a su mesa y se sentó. No necesitaba expresión alguna en su rostro para
+parecer triste.
+
+—¿Qué edad tiene usted? —quiso saber.
+
+—Treinta y dos años —respondí.
+
+—Entonces, no puede recordar los tiempos en que no había robots. La humanidad
+tenía que enfrentarse con el universo sola, sin amigos. Ahora tiene seres que
+la ayudan; seres más fuertes que ella, más útiles, más fieles, y de una
+devoción absoluta. ¿Ha pensado usted en ello bajo este aspecto?
+
+—Temo que no. ¿Puedo citar sus palabras?
+
+—Sí. Para usted, un robot es un robot. Mecánica y metal; electricidad y
+positrones. ¡Mente y hierro! ¡Obra humana! Si es necesario, destruida por el
+hombre. Pero no ha trabajado usted en ellos, de manera que no los conoce. Son
+más limpios, más educados que nosotros.
+
+Traté de halagarla, de adularla hábilmente.
+
+—Quisiéramos saber algo de lo que pueda usted contarnos, saber su opinión sobre
+los robots. La Prensa Interplanetaria abarca todo el Sistema Solar. Unos tres
+billones de lectores, doctora Calvin. Tienen que saber lo que pueda usted
+decirnos sobre los robots.
+
+No tenía necesidad de insistir. No me oyó, pero se dirigía al lugar indicado.
+
+—Deben haberlo sabido desde el principio. Vendíamos robots para uso
+terrestre... antes de mis tiempos, incluso. Desde luego, eran robots que no
+podían hablar. Después se hicieron más humanos, y empezó la oposición. Los
+sindicatos obreros, como es natural, se opusieron a la competencia que hacían
+los robots al trabajo humano, y varios sectores de la opinión religiosa
+hicieron sus objeciones inspiradas en la superstición. Todo aquello fue inútil
+y ridículo. Y, sin embargo, así era.
+
+Yo iba tomando notas de lo que decía en mi registrador de bolsillo, tratando de
+que no observase el movimiento de mi mano. Practicando un poco se puede llegar
+a hacer detalladas anotaciones sin sacar el chisme del bolsillo.
+
+—Tomemos el caso de Robbie —dijo—. No lo conocí. Fue desguazado el año anterior
+a mi entrada en la compañía...; era muy atrasado. Pero vi a la muchacha en el
+museo.
+
+Se detuvo, pero no dijo nada. Dejé que sus ojos se humedeciesen y su
+imaginación viajase. Tenía que recorrer mucho tiempo.
+
+—Oí hablar de ello más tarde, y, cuando nos llamaban blasfemos y creadores de
+demonios, siempre me acordaba de él. Robbie era un robot sin vocalización. No
+podía hablar. Fue fabricado y vendido en 1996. Eran días anteriores a la
+extrema especialización, de manera que fue vendido como niñera...
+
+—¿Como qué?
+
+—Como niñera...
+
+
+
+
+
+ROBBIE
+
+
+
+
+
+—Noventa y ocho... noventa y nueve... ¡cien! —Gloria retiró su mórbido
+antebrazo de delante de los ojos y permaneció un momento parpadeando al sol.
+Después, tratando de mirar en todas direcciones a la vez, avanzó cautelosamente
+algunos pasos, apartándose del árbol contra el que se apoyaba.
+
+Estiró el cuello, estudiando las posibilidades de unos matorrales que había a
+la derecha y se alejó unos pasos para tener mejor punto de vista
+
+La calma era absoluta, a excepción del zumbido de los insectos y el gorjear de
+algún pájaro que afrontaba el sol de mediodía.
+
+—Apostaría a que se ha metido en casa, y le he dicho mil veces que esto no es
+leal —se quejó.
+
+Avanzando los labios con un mohín y arrugando el entrecejo, se dirigió
+decididamente hacia el edificio de dos pisos del otro lado del camino.
+
+Demasiado tarde oyó un crujido detrás de ella, seguido del claro «clump-clump»
+de los pies metálicos de Robbie. Se volvió rápidamente para ver a su triunfante
+compañero salir de su escondrijo y echó a correr hacia el árbol a toda
+velocidad. Gloria chilló, desalentada.
+
+—¡Espera, Robbie! ¡Esto no es leal, Robbie! ¡Prometiste no salir hasta que te
+hubiese encontrado! —Sus diminutos pies no podían seguir las gigantescas
+zancadas de Robbie. Entonces, a tres metros de la meta, el paso de Robbie se
+redujo a un mero arrastrarse y Gloria, haciendo un esfuerzo final por
+alcanzarlo, echó a correr jadeante y llegó a tocar la corteza del árbol la
+primera.
+
+Orgullosa, se volvió hacia el leal Robbie y con la más baja ingratitud, le
+recompensó su sacrificio mofándose de su incapacidad para correr.
+
+—¡Robbie no puede correr! —gritaba con toda la fuerza de su voz de ocho años—.
+¡Lo gano cada día! ¡Lo gano cada día! —cantaban las palabras con un ritmo
+infantil.
+
+Robbie no contestó, desde luego... con palabras. Echó a correr, esquivando a
+Gloria cuando la niña estaba a punto de alcanzarlo, obligándola a describir
+círculos que iban estrechándose, con los brazos extendidos azotando el aire.
+
+—¡Robbie... estate quieto! —gritaba. Y su risa salía estridente, acompañando
+las palabras.
+
+Hasta que Robbie se volvió súbitamente y la agarró, haciéndole dar vueltas en
+el aire, de manera que durante un momento para ella el universo fue un vacío
+azulado y los verdes árboles que se elevaban del suelo hacia la bóveda celeste.
+Y después se encontró de nuevo sobre la hierba, al lado de la pierna de Robbie
+y agarrada todavía a un duro dedo de metal.
+
+Al poco rato recobró la respiración. Trató inútilmente de arreglar su
+alborotado cabello con un gesto de vaga imitación de su madre y miró si su
+vestido se había desgarrado.
+
+Golpeó con la mano la espalda de Robbie.
+
+—¡Mal muchacho! ¡Malo, malo! ¡Te pegaré!
+
+Y Robbie se inclinaba, cubriéndose el rostro con las manos, de manera que ella
+tuvo que añadir:
+
+—¡No, no, Robbie! ¡No te pegaré! Pero ahora me toca a mí esconderme, porque
+tienes las piernas más largas y me prometiste no correr hasta que te encontrase.
+
+Robbie asintió con la cabeza —pequeño paralelepípedo de bordes y ángulos
+redondeados, sujeto a otro paralelepípedo más grande, que servía de torso, por
+medio de un corto cuello flexible—y obedientemente se puso de cara al árbol.
+Una delgada película de metal bajó sobre sus ojos relucientes y del interior de
+su cuerpo salió un acompasado tic-tac.
+
+—Y ahora no mires, ni te saltes ningún número —le advirtió Gloria, mientras
+corría a esconderse.
+
+Con invariable regularidad fueron transcurriendo los segundos, y al llegar a
+cien se levantaron los párpados y los ojos colorados de Robbie inspeccionaron
+los alrededores. Al instante se fijaron en un trozo de tela de color que salía
+de detrás de una roca. Avanzó algunos pasos y se convenció de que era Gloria.
+
+Lentamente, manteniéndose entre Gloria y el árbol-meta, avanzó hacia el
+escondrijo, y, cuando Gloria estuvo plenamente a la vista y no pudo dudar de
+haber sido descubierta, tendió un brazo hacia ella, y se golpeó con el otro la
+pierna, produciendo un ruido metálico. Gloria salió, contrariada.
+
+—¡Has mirado! —exclamó con neta deslealtad—. Además, estoy cansada de jugar al
+escondite. Quiero que me lleves a paseo.
+
+Pero Robbie estaba ofendido de la injusta acusación, y, sentándose
+cautelosamente, movió la cabeza contrariado de un lado a otro.
+
+Gloria cambió de tono, adoptando una gentil zalamería.
+
+—Vamos, Robbie, no lo he dicho en serio, que mirases. Llévame a paseo.
+
+Pero Robbie no era tan fácil de conquistar. Miró fijamente al cielo y siguió
+moviendo negativamente la cabeza, obstinado.
+
+—¡Por favor, Robbie, llévame a paseo! —Rodeó su cuello con sus rosados brazos y
+estrechó su presa. Después cambiando repentinamente de humor, se apartó de él—.
+Si no me das un paseo, voy a llorar. —Y su rostro hizo una mueca, dispuesta a
+cumplir su amenaza.
+
+El endurecido Robbie no hizo caso de la terrible posibilidad, y siguió moviendo
+la cabeza por tercera vez.
+
+Gloria consideró necesario jugar su última carta.
+
+—Si no me llevas —exclamó amenazadora—no te contaré más historias. ¡Ni una más!
+
+Ante este ultimátum, Robbie se rindió sin condiciones y movió afirmativamente
+la cabeza, haciendo resonar su cuello de metal. Levantó cuidadosamente a la
+chiquilla y la sentó en sus anchos hombros.
+
+Las amenazadoras lágrimas de Gloria se secaron en el acto y se echó a reír con
+deleite. La piel metálica de Robbie, mantenida a una temperatura constante
+gracias a las resistencias interiores, era suave y agradable, y el ruido
+metálico que ella producía al golpear el cuerpo con sus tacones daba mayor
+encanto a la situación.
+
+—Eres un caza del aire, Robbie, eres un gran caza de plata del aire. Tiende los
+brazos. ¡Tienes que tenderlos, Robbie, si quieres ser un caza del aire!
+
+Ante aquella lógica irrefutable los brazos de Robbie se convirtieron en alas,
+que cogían las corrientes de aire, y fue un caza aéreo.
+
+Gloria se agarraba a la cabeza del robot, inclinándose hacia la derecha.
+
+Entonces dotó a la nave de un motor que hacía «Brrrr», y de armas que producían
+sonidos onomatopéyicos de disparos. Daba caza a los piratas y las baterías de
+la nave entraban en acción.
+
+—¡Hemos matado a otro! ¡Dos más!... —gritaba—. ¡Más aprisa, hombre! ¡Nos
+quedamos sin municiones!
+
+Apuntaba por encima de su hombro con indomable valor, y Robbie era una achatada
+nave del espacio que zumbaba a través de la bóveda celeste con la máxima
+aceleración.
+
+Cruzó corriendo el campo hacia la alta hierba, y se detuvo con una rapidez que
+arrancó un grito a su sonrojada amazona y la dejó caer suavemente sobre la
+blanda alfombra verde. Gloria se reía y jadeaba, lanzando intermitentes
+exclamaciones.
+
+—¡Oh, qué bueno!...
+
+Robbie esperó a que recobrase la respiración y entonces le tiró suavemente de
+un mechón de pelo.
+
+—¿Quieres algo? —dijo Gloria con una expresión de inocencia en los ojos, que no
+consiguió engañar ni por un instante a su voluminosa «niñera».
+
+Robbie le tiró del pelo con más fuerza.
+
+—¡Ah, ya sé!... Quieres una historia.
+
+Robbie asintió rápidamente.
+
+—¿Cuál?
+
+Robbie describió un semicírculo en el aire con un dedo.
+
+—¿Otra vez? —protestó la chiquilla—. Te he explicado la Cenicienta un millón de
+veces. ¿No estás cansado de ella? ¡Es para niños! Bien, bien —añadió, viendo a
+Robbie describir otro semicírculo.
+
+Gloria reflexionó, evocó en su memoria el recuerdo del cuento (con sus
+modificaciones propias, que eran varias) y empezó:
+
+—¿Estás a punto? Bien, pues había una vez una bella muchacha que se llamaba
+Ella. Y tenía una cruel madrastra y dos hermanastras muy feas y muy malas y...
+
+Gloria había llegado al momento crítico del cuento: «Daba medianoche en el
+reloj y sus andrajos se convertían...»; y Robbie escuchaba atentamente, con los
+ojos ardientes, cuando vino la interrupción.
+
+—¡Gloria!
+
+Era la voz aguda de una mujer que había llamado no una, sino varias veces; y
+tenía el tono nervioso de aquel a quien la ansiedad convierte en impaciencia.
+
+—Mamá me llama —dijo Gloria, contrariada—. Será mejor que me lleves a casa,
+Robbie.
+
+Robbie obedeció apresuradamente, porque sabía que más valía cumplir las órdenes
+de Mrs. Weston sin la menor vacilación. El padre de Gloria estaba raramente en
+casa durante el día, a excepción de los domingos, —hoy, por ejemplo—y cuando
+esto ocurría, se mostraba el hombre más afable y comprensivo. La madre de
+Gloria, en cambio, era una fuente de sinsabores para Robbie, que sentía siempre
+el deseo de alejarse de su presencia.
+
+Mrs. Weston los vio en el momento en que aparecían por encima de los altos
+tallos de la vegetación, y volvió a entrar en la casa a esperarlos.
+
+—Te he llamado hasta quedarme ronca, Gloria —dijo severamente—. ¿Dónde estabas?
+
+—Estaba con Robbie —balbuceó Gloria—. Le estaba contando la Cenicienta y he
+olvidado que era hora de comer.
+
+—Pues es una lástima que Robbie lo haya olvidado también. —Y como si de repente
+recordase la presencia del robot, se volvió rápidamente hacia él—. Puedes
+marcharte, Robbie. No te necesita ya. Y no vuelvas hasta que te llame —añadió
+secamente.
+
+Robbie dio la vuelta para marcharse, pero se detuvo al oír a Gloria salir en su
+defensa.
+
+—¡Espera, mamá! Tienes que dejar que se quede: No he acabado de contarle la
+Cenicienta. Le he prometido contarle la Cenicienta y no he terminado.
+
+—¡Gloria!
+
+—De verdad, mamá. Se estará tan quieto que no te darás siquiera cuenta de que
+está aquí. Puede sentarse en la silla del rincón, y no dirá ni una palabra...;
+bueno, no hará nada, quiero decir. ¿Verdad, Robbie?
+
+Robbie, así interpelado, movió de arriba abajo su pesada cabeza.
+
+—Gloria, si no dejas esto inmediatamente, no verás a Robbie en una semana.
+
+La chiquilla bajó los ojos.
+
+—Bueno..., pero la Cenicienta es su cuento favorito y no lo había terminado...
+¡Y le gusta tanto!
+
+El robot salió de la habitación con paso vacilante y Gloria ahogó un sollozo.
+
+George Weston se encontraba a gusto... Tenía la inveterada costumbre de pasar
+las tardes de los domingos a gusto. Una buena digestión de la sabrosa comida;
+una vieja y muelle chaise longue para tumbarse; un número del Times; las
+zapatillas en los pies, el torso sin camisa...
+
+¿Cómo podía uno no encontrarse a gusto? No experimentó ningún placer, por lo
+tanto, cuando vio entrar a su esposa. Después de diez años de matrimonio era
+todavía lo suficientemente estúpido para seguir enamorado de ella, y tenía
+siempre mucho gusto en verla; pero las tardes de los domingos eran sagradas y
+su concepto de la verdadera comodidad era poder pasar tres o cuatro horas solo.
+Por consiguiente, concentró su atención en las últimas noticias de la
+expedición Lefebre-Yoshida a Marte (tenía que salir de la Base Luna y podía
+incluso tener éxito) y fingió no verla.
+
+Mrs. Weston esperó pacientemente dos minutos, después, impaciente, dos más, y
+finalmente rompió el silencio.
+
+—George...
+
+—¿Ejem?
+
+—¡He dicho George! ¿Quieres dejar este periódico y mirarme?
+
+El periódico cayó al suelo, crujiendo, y George volvió el rostro contrariado
+hacia su mujer.
+
+—¿Qué ocurre, querida?
+
+—Ya sabes lo que ocurre. Es Gloria y esta terrible máquina.
+
+—¿Qué terrible máquina?
+
+—No finjas no saber de lo que hablo. El robot, al cual Gloria llama Robbie. No
+se aparta de ella ni un instante.
+
+—¿Y por qué quieres que se aparte? Es su deber... Y en todo caso, no es ninguna
+terrible máquina. Es el mejor robot que se puede comprar con dinero y estoy
+seguro de que me hace economizar medio año de renta. Es más inteligente que
+muchos de mis empleados.
+
+Hizo ademán de volver a tomar el periódico, pero su mujer fue más rápida que él
+y se lo arrebató.
+
+—Vas a escucharme, George. No quiero ver a mi hija confiada a una máquina, por
+inteligente que sea. No tiene alma y nadie sabe lo que es capaz de pensar. Una
+chiquilla no está hecha para ser guardada por una cosa de metal.
+
+—¿Y cuándo has tomado esta decisión? —preguntó Mr. Weston frunciendo el ceño—.
+Ya lleva con Gloria dos años y no he visto que te preocupases hasta ahora.
+
+—Al principio era diferente. Era una novedad, me quitó un peso de encima y era
+una cosa elegante. Pero ahora, no sé... los vecinos...
+
+—¿Y qué tienen que ver los vecinos con esto? Mira, un robot es muchísimo más
+digno de confianza que una nodriza humana. Robbie fue construido en realidad
+con un solo propósito: ser el compañero de un chiquillo. Su «mentalidad» entera
+ha sido creada con este propósito. Tiene forzosamente que querer y ser fiel a
+esta criatura. Es una máquina, hecha así. Es más de lo que puede decirse de los
+humanos.
+
+—Pero puede ocurrir algo. Puede... puede —Mrs. Weston tenía unas ideas muy
+vagas del contenido interior de un robot—, no sé, si algo de dentro se
+estropease y...
+
+No podía decidirse a completar su claro y espantoso pensamiento.
+
+—Tonterías... —negó Weston con un involuntario estremecimiento nervioso—. Es
+completamente ridículo. Cuando compré a Robbie tuvimos una larga discusión
+acerca de la Primera Regla Robótica. Ya sabes que un robot no puede dañar a un
+ser humano; que mucho antes de que algo pudiese alterar esta Primera Regla, el
+robot quedaría completamente inutilizado. Es una imposibilidad matemática.
+Además, dos veces al año viene un ingeniero de la U. S. Robots a hacer una
+revisión completa del mecanismo. Hay menos probabilidades de que se estropee
+algo en Robbie, de que uno de nosotros se vuelva repentinamente loco;
+considerablemente menos. Además, ¿cómo se lo vas a quitar a Gloria?
+
+Hizo una nueva e infructuosa tentativa de tomar el periódico y su mujer lo
+arrojó con rabia a la habitación contigua.
+
+—Ahí está la cosa, George. No quiere jugar con nadie más. Hay por aquí docenas
+de niños y niñas con quienes podría trabar amistad, pero no quiere. No quiere
+ni acercarse a ellos, a menos que yo la obligue. Es imposible que se críe así.
+Querrás que sea una niña normal, ¿verdad? Querrás que sea capaz de ocupar su
+sitio en la sociedad... supongo.
+
+—Estás luchando contra las sombras, Grace. Imagínate que Robbie es un perro. He
+visto centenares de chiquillos que querían más a su perro que a su padre.
+
+—Un perro es diferente, George. Tenemos que librarnos de este terrible
+instrumento. Puedes volverlo a vender a la compañía. Lo he preguntado y es
+posible.
+
+—¿Que lo has... preguntado? Mira, Grace, escucha, no nos apartemos de la
+cuestión. Vamos a conservar el robot hasta que Gloria sea mayor, y no se hable
+más de este enojoso asunto.
+
+Y con estas palabras, salió de la habitación dando un bufido.
+
+Dos días después, Mrs. Weston encontró a su marido en la puerta.
+
+—Tienes que escuchar una cosa, George. Hay mala voluntad por el pueblo.
+
+—¿Acerca de qué? —preguntó Mr. Weston entrando en el cuarto de baño y ahogando
+la posible respuesta con el ruido del agua.
+
+Mrs. Weston esperó a que cesara. Después dijo:
+
+—Acerca de Robbie.
+
+Weston avanzó un paso con la toalla en la mano, el rostro colorado y colérico.
+
+—¿Qué diablos estás diciendo?
+
+—La cosa se ha ido formando y formando... He tratado de cerrar los ojos y no
+verlo, pero no puedo más. Todo el pueblo considera a Robbie peligroso. No dejan
+acercarse aquí a los chiquillos.
+
+—Nosotros le confiamos nuestra hija.
+
+—La gente no razona, ante estas cosas.
+
+—¡Pues que se vayan al diablo!
+
+—Decir esto no resuelve el problema. Yo tengo que comprar allí. Tengo que ver a
+los vecinos cada día. Y estos días es peor cuando se habla de robots. Nueva
+York acaba de dictar la orden prohibiendo que los robots salgan a la calle
+entre la puesta y la salida del sol.
+
+—Muy bien, pero no pueden impedirnos tener un robot en nuestra casa, Grace.
+Esto es una de tus campañas. La conozco. Pero la respuesta es la misma. ¡No!
+Seguiremos teniendo a Robbie.
+
+
+
+Y no obstante, quería a su mujer; y, lo que era peor aún, su mujer lo sabía.
+George Weston, al fin y al cabo, no era más que un hombre, ¡el pobre!, y su
+mujer echaba mano de todos los artilugios que el sexo más torpe y escrupuloso
+ha aprendido, con razón e inútilmente, a temer.
+
+Diez veces durante la semana que siguió, tuvo ocasión de gritar: «¡Robbie se
+queda... y se acabó!», y cada vez lo decía con menos fuerza y acompañado de un
+gruñido más plañidero.
+
+Llegó finalmente el día en que Weston se acercó tímidamente a su hija y le
+propuso una sesión de visivoz en el pueblo.
+
+—¿Puede venir Robbie?
+
+—No, querida —dijo él estremeciéndose al sonido de su voz—, no admiten robots
+en el visivoz, pero podrás contárselo todo cuando volvamos a casa. —Dijo las
+últimas palabras balbuceando y miró a lo lejos.
+
+Gloria regresó del pueblo hirviendo de entusiasmo, porque el visivoz era
+realmente un espectáculo magnífico.
+
+Esperó a que su padre metiese el coche a reacción en el garaje subterráneo y
+dijo:
+
+—Espera que se lo cuente a Robbie, papá. Le hubiera gustado mucho.
+Especialmente cuando Francis Fran retrocedía tan sigilosamente y tropezó con
+uno de los Hombres-Leopardo y tuvo que huir. —Se rió de nuevo—. Papá, ¿hay
+verdaderamente hombres-leopardo en la Luna?
+
+—Probablemente, no —dijo Weston distraído—. Es sólo fantasía.
+
+No podía entretenerse ya mucho con el coche. Tenía que afrontar la situación.
+Gloria echó a correr por el césped.
+
+—¡Robbie! ¡Robbie!
+
+De repente se detuvo al ver un magnífico perro de pastor que la miraba con ojos
+dulces, moviendo la cola.
+
+—¡Oh, que perro más bonito! —dijo Gloria subiendo los escalones del porche y
+acariciándolo cautelosamente—. ¿Es para mí, papá?
+
+—Sí, es para ti, Gloria —dijo su madre, que acababa de aparecer junto a ellos—.
+Es muy bonito, y muy bueno... Le gustan las niñas.
+
+—¿Y sabe jugar?
+
+—¡Claro! Sabe hacer la mar de trucos. ¿Quieres ver algunos?
+
+—En seguida. Quiero que lo vea Robbie también. ¡Robbie!... —Se detuvo,
+vacilante, y frunció el ceño—Apostaría a que se ha encerrado en su cuarto,
+enojado conmigo porque no le he llevado al visivoz. Tendrás que explicárselo,
+papá. A mí quizá no me creería, pero si se lo dices tú sabrá que es verdad.
+
+Weston se mordió los labios. Miró a su mujer, pero ella apartaba la vista.
+
+Gloria dio rápidamente la vuelta y bajó los escalones del sótano al tiempo que
+gritaba:
+
+—¡Robbie..., ven a ver lo que me han traído papá y mamá! ¡Me han comprado un
+perro, Robbie!
+
+Al cabo de un instante, había regresado asustada.
+
+—Mamá, Robbie no está en su habitación. ¿Dónde está? —No hubo respuesta; George
+Weston tosió y se sintió repentinamente interesado por una nube que iba
+avanzando perezosamente por el cielo. La voz de Gloria estaba preñada de
+lágrimas—. ¿Dónde está Robbie, mamá? Mrs. Weston se sentó y atrajo suavemente a
+su hija hacia ella.
+
+—No te importe, Gloria. Robbie se ha marchado, me parece.
+
+—¿Marchado?... ¿Adónde? ¿Adónde se ha marchado, mamá?
+
+—Nadie lo sabe, hijita. Se ha marchado. Lo hemos buscado y buscado por todas
+partes, pero no lo encontramos.
+
+—¿Quieres decir que no va a volver nunca más? —sus ojos se redondeaban por el
+horror.
+
+—Quizá lo encontraremos pronto. Seguiremos buscándolo. Y entretanto puedes
+jugar con el perrito. ¡Míralo! Se llama «Relámpago» y sabe...
+
+Pero Gloria tenía los párpados bañados en lágrimas.
+
+—¡No quiero el perro feo! ¡Quiero a Robbie! ¡Quiero que me encuentres a Robbie!
+
+Su desconsuelo era demasiado hondo para expresarlo con palabras, y prorrumpió
+en un ruidoso llanto.
+
+Mrs. Weston pidió auxilio a su marido con la mirada, pero él seguía balanceando
+rítmicamente los pies y no apartaba su ardiente mirada del cielo, de manera que
+tuvo que inclinarse para consolar a su hija.
+
+—¿Por qué lloras, Gloria? Robbie no era más que una máquina, una máquina fea...
+No tenía vida.
+
+—¡No era una máquina! —gritó Gloria con fuego—. Era una persona como tú y como
+yo y además era mi amigo. ¡Quiero que vuelva! ¡Oh, mamá, quiero que vuelva...!
+
+La madre gimió, sintiéndose vencida, y dejó a Gloria con su dolor.
+
+—Déjala que llore a su gusto —le dijo a su marido—; el dolor de los chiquillos
+no es nunca duradero. Dentro de unos días habrá olvidado que aquel espantoso
+robot haya existido.
+
+Pero el tiempo demostró que Mrs. Weston había sido demasiado optimista. Desde
+luego, Gloria dejó de llorar, pero dejó de sonreír y cada día se mostraba más
+triste y silenciosa.
+
+Gradualmente, su actitud de pasiva infelicidad fue minando a Mrs. Weston y lo
+único que la retenía de ceder, era su incapacidad de confesar la derrota a su
+marido.
+
+Hasta que una noche, entró en el «living», se sentó y se cruzó de brazos,
+desalentada. Su marido estiró el cuello para verla por encima del periódico.
+
+—¿Qué te pasa, Grace?
+
+—Es esta chiquilla, George. He tenido que devolver el perro hoy. Gloria me dijo
+que no podía soportar verlo. Hará que tenga un ataque de nervios.
+
+Weston dejó el periódico a un lado y un destello de esperanza apareció en sus
+ojos.
+
+—Quizá..., quizá tendríamos que volver a pedir a Robbie. Es posible, sabes...
+Puedo hablar con...
+
+—¡No! —respondió ella secamente—. No quiero oír hablar de él. No vamos a ceder
+tan fácilmente. Mi hija no tiene que ser criada por un robot, aunque necesite
+años para quitárselo de la cabeza.
+
+Weston volvió a tomar el periódico con aire decepcionado.
+
+—Un año así y tendré el cabello prematuramente gris.
+
+—No eres de gran ayuda, George —fue la glacial contestación—. Lo que Gloria
+necesita es un cambio de ambiente. Aquí no puede olvidar a Robbie, desde luego.
+¿Cómo puede olvidarlo si cada árbol y cada roca se lo recuerda? Es realmente la
+situación más tonta de que he oído hablar. ¡Imagínate una criatura
+desfalleciendo por la pérdida de un robot!
+
+—Bien, vamos al grano. ¿Cuál es el cambio de ambiente que planeas?
+
+—Vamos a llevarla a Nueva York.
+
+—¡En agosto! Oye, ¿sabes lo que representa Nueva York en agosto? ¡Es
+insoportable!
+
+—Hay millones que lo soportan.
+
+—No tienen un sitio como éste donde estar. Si no tuviesen que quedarse en Nueva
+York, no se quedarían.
+
+—Pues nosotros tendremos que quedarnos también. Vamos a salir en seguida, en
+cuanto hayamos hecho los preparativos. En Nueva York, Gloria encontrará
+suficientes distracciones y suficientes amigos para hacerle olvidar esta
+máquina.
+
+—¡Oh, Dios mío!... —gruñó el infeliz marido—. ¡Aquellos pavimentos abrasadores!
+
+—Tenemos que ir —fue la implacable respuesta—. Gloria ha perdido dos kilos este
+mes y la salud de mi hijita es más importante para mí que tu comodidad.
+
+—Es una lástima que no hayas pensado en la salud de tu hijita antes de privarla
+de su querido robot —murmuró él..., para sí mismo.
+
+
+
+Gloria dio inmediatamente síntomas de mejoría en cuanto oyó hablar del
+inminente viaje a la ciudad. Hablaba poco de él, pero cuando lo hacía era
+siempre con vivo entusiasmo. Comenzó de nuevo a sonreír y a comer con su
+precedente apetito.
+
+Mrs. Weston no cabía en sí de júbilo y no perdía ocasión de demostrar su
+triunfo sobre su todavía escéptico marido.
+
+—¿Lo ves, George? Ayuda a hacer el equipaje como un angelito y charla como si
+no hubiese tenido un disgusto en su vida. Es lo que te dije, lo que necesitaba
+era fijar su interés en otra cosa.
+
+—¡Ejem!... —respondió el marido, escéptico—. Esperemos que así sea.
+
+Los preliminares se hicieron rápidamente. Se tomaron las disposiciones para el
+alojamiento en la ciudad y un matrimonio quedó encargado del cuidado de la casa
+de campo. Cuando finalmente llegó el día de la marcha, Gloria había vuelto a
+ser la misma de antes y ni la menor alusión de Robbie pasó por sus labios.
+
+Con el mejor humor, la familia tomó un taxigiro hasta el aeropuerto (Weston
+hubiera preferido ir en su autogiro, pero era sólo un dos plazas y no había
+sitio para el equipaje) y entraron en el avión que esperaba para salir.
+
+—Ven, Gloria, te he reservado un sitio al lado de la ventana para que veas el
+paisaje.
+
+Gloria ocupó el sitio indicado, aplastó su naricilla contra el grueso vidrio y
+miró con un interés que aumentó al comenzar a rugir los motores
+
+Era demasiado pequeña para asustarse cuando la tierra empezó a alejarse a sus
+pies y sintió aumentar el doble de su peso. Sólo cuando la tierra hubo cambiado
+de aspecto y se convirtió en una vasta manta de cuadros de colores, apartó la
+nariz del vidrio y se volvió hacia su madre.
+
+—¿Llegaremos pronto a la ciudad, mamá? —preguntó rascándose la nariz helada y
+observando cómo se desvanecía la mancha opaca que su aliento había dejado en la
+ventana.
+
+—Dentro de media hora, hija mía. ¿No estás contenta de que vayamos? —añadió con
+sólo un leve tono de ansiedad en la voz—. ¿No vas a ser muy feliz en la ciudad,
+con los edificios y la gente y tantas cosas que ver? Iremos al visivoz cada
+día, y al teatro, y al circo y a la playa, y...
+
+—Sí, mamá —fue la respuesta sin entusiasmo de la chiquilla. La nave pasaba en
+aquel momento sobre un mar de nubes y Gloria quedó en el acto absorbida en la
+contemplación de aquella masa que tenía a sus pies. Después volvieron a
+encontrarse en medio de un cielo azul y se volvió hacia su madre con un súbito
+aire misterioso de secreto.
+
+—Ya sé por qué vamos a la ciudad, mamá.
+
+—¿Sí, hija mía? —dijo Mrs. Weston intrigada—. ¿Y por qué?
+
+—No me lo has dicho porque querías darme una sorpresa, pero lo sé.
+
+—Quedó un momento sumida en la admiración de su aguda perspicacia y después se
+echó a reír alegremente—. Vamos a Nueva York porque allí podremos encontrar a
+Robbie, ¿no es verdad? Con detectives.
+
+La suposición pilló a George Weston en el momento de beber un vaso de agua, con
+desastrosos resultados.
+
+Hubo una especie de ronquido, un géiser de agua y una tos de alguien que se
+ahoga. Cuando todo hubo terminado, ofreció el aspecto de una persona
+profundamente contrariada, tenía el rostro colorado y estaba mojado de pies a
+cabeza.
+
+Mrs. Weston mantuvo su compostura, pero cuando Gloria hubo repetido su pregunta
+con el ansia redoblada en la voz, su mal humor triunfó.
+
+—Quizá —repitió secamente—. Y ahora siéntate y estate quieta, por el amor de
+Dios.
+
+
+
+Nueva York, en 1998, era para el visitante un paraíso superior a lo que había
+sido siempre. Los padres de Gloria se dieron cuenta de ello y sacaron el mejor
+partido posible.
+
+Por orden estricta de su mujer, Weston había tomado las disposiciones
+necesarias para que sus negocios marchasen solos por algún tiempo, a fin de
+estar libre y poder dedicar el tiempo a lo que él llamaba «salvar a Gloria del
+borde del abismo». Como era costumbre en Weston, lo hizo de aquella forma
+precisa, minuciosa y eficiente que era propia de él. Antes de que hubiese
+transcurrido un mes, nada de lo que podía hacerse había dejado de ser hecho.
+
+Gloria fue llevada al último piso del Roosevelt Building, que medía casi un
+kilómetro de altura, y desde donde se gozaba del abigarrado panorama de los
+edificios que se extendían hasta los campos de Long Island y las tierras llanas
+de Nueva Jersey.
+
+Visitaron los jardines zoológicos, donde Gloria contempló con emocionado temor
+un «verdadero león vivo» (con la consiguiente decepción de ver que los
+guardianes lo alimentaban con trozos de carne cruda y no con seres humanos,
+como ella esperaba), y pidió con insistencia y de manera perentoria ver «la
+ballena».
+
+Los diversos museos contribuyeron también a llamar su atención, así como
+parques, playas y el acuario.
+
+Llevaron a Gloria hasta medio curso del Hudson en un barco especialmente
+decorado, que evocaba el arcaísmo de los años veinte. Viajó por la estratosfera
+en una salida de exhibición y vio el cielo ponerse de color de púrpura, las
+estrellas destacar en el firmamento y la Tierra nebulosa tomar bajo ellos el
+aspecto de una gran taza cóncava. Una nave submarina de paredes transparentes
+le hizo visitar las aguas de Long Island y vio aquel mundo verde y tembloroso,
+y los monstruos marinos acercarse a ella y huir después atemorizados.
+
+En un terreno más prosaico, Mrs. Weston la llevó a los grandes almacenes, donde
+pudo soñar de nuevo a su antojo.
+
+En resumen, cuando el mes hubo casi transcurrido, los Weston estaban
+convencidos de haber hecho cuanto era humanamente posible para quitarle de la
+cabeza al desaparecido Robbie, pero no estaban muy seguros de haberlo
+conseguido.
+
+El hecho cierto era que dondequiera que llevasen a Gloria, desplegaba el más
+vivo interés por todos los robots que se le ponían delante. Por muy interesante
+que fuese el espectáculo a que asistía, por nuevo que fuese a sus ojos
+infantiles, su mirada se fijaba implacablemente en cualquier parte donde viese
+un movimiento metálico.
+
+La situación alcanzó su apogeo con el episodio del Museo de Ciencia y de
+Industria. El Museo había anunciado un «programa infantil» especial donde
+tenían que hacerse demostraciones de magia científica reducidas a la escala de
+la mentalidad infantil. Los Weston, desde luego, pusieron el espectáculo en la
+lista de «indispensables».
+
+Los Weston estaban completamente absorbidos por los experimentos de un potente
+electroimán cuando Mrs. Weston se dio súbitamente cuenta de que Gloria no
+estaba con ellos. El pánico inicial se convirtió en metódica decisión y con la
+ayuda de tres empleados se comenzó una minuciosa búsqueda.
+
+Gloria, por su parte, no era de esas chiquillas que rondan al azar.
+
+Para su edad, era inusitadamente decidida, saturada de idiosincrasia maternal,
+a este respecto. En el tercer piso había visto un gran cartel con una flecha y
+la indicación «Al Robot Parlante», y después de haberlo deletreado sola y
+observando que sus padres no parecían decididos a avanzar en aquella dirección,
+hizo lo que consideró indicado. Esperando un momento de distracción paterna,
+dio media vuelta y siguió la flecha.
+
+El Robot Parlante era verdaderamente un tour de force; pero un artefacto
+totalmente inútil, sin más valor que el publicitario. Cada hora, un grupo de
+visitantes escoltados por un empleado se detenía delante del robot y hacía
+preguntas al ingeniero encargado del robot, con discretos susurros. Las que el
+ingeniero juzgaba aptas para ser contestadas por los circuitos del robot, le
+eran transmitidas.
+
+Era una tontería. Puede ser muy interesante saber que el cuadrado de catorce es
+ciento noventa y seis, que la temperatura en este momento es de 28º
+centígrados, que la presión del aire acusa 750 mm de mercurio, y que el peso
+atómico del sodio es 23, pero para esto, en realidad, no se necesita un robot.
+No se necesita, en especial, una enorme masa inmóvil de alambres y espirales
+que ocupa veinticinco metros cuadrados.
+
+Pocos eran los que hacían una segunda experiencia, pero una chiquilla de unos
+diez años estaba tranquilamente sentada en un banco esperando la tercera
+exhibición. Era la única persona que había en la sala cuando Gloria entró, pero
+no la miró. Para ella, en aquel momento otro ser humano era un ejemplar
+completamente despreciable. Consagraba su atención a aquel objeto lleno de
+ruedas dentadas
+
+De momento, vaciló con cierto desaliento. Aquello no se parecía a ninguno de
+los robots que ella había visto. Cautelosamente, vacilando, levantó su débil
+voz.
+
+—Por favor, Mr. Robot, perdone, ¿es usted el Robot Parlante?
+
+No estaba muy segura de ello, pero le parecía que un robot que hablaba merecía
+toda clase de consideraciones
+
+(Por el delgado rostro de la muchacha de diez años pasó una mirada de intensa
+concentración. Sacó un carnet de notas del bolsillo y comenzó a escribir
